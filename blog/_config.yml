@@ -9,6 +9,9 @@ baseurl: "/blog"
 url: "http://gildasio.net"
 twitter_username: jekyllrb
 github_username:  gjuniioor
+gplus_username: gildasiojunior0
+vivaolinux_username: gjuniioor
+medium_username: gjuniioor
 
 # Build settings
 markdown: kramdown

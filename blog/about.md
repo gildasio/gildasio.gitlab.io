@@ -1,11 +1,28 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Sobre mim
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+#### Fatos:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Jovem (1997)
+- Baiano
+- Amante de Linux
+- Geek
+
+#### Dizem que sou:
+
+- Lindo (Thanks mãe!)
+- Nerd (Desde o tempo que era "ruim". Pois é!)
+- Ateu de internet (vulgo: modinha)
+
+Algumas de minhas contas em fóruns e redes sociais estão ai no topo da página. Se quiser ver algumas outras, visite [meu site](http://gildasio.net){:target="_blank"}.
+
+## Sobre o blog
+
+Planejo deixar por aqui artigos, dicas, e demais tipos de postagens, normalmente sobre programação, linux... Enfim, coisas em torno do universo da computação. Que assim seja.
+
+> Esse é um blog simples, que utiliza o [Jekyll](http://jekyllrb.com "Jekyll"){:target="_blank"} para gerar suas páginas.
