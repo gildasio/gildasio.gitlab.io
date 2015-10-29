@@ -1,11 +1,23 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: "gjuniioor"
+bye_message: "Thx!"
+
+# Header settings
+nick: "gjuniioor"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code: 
+    server: "github.com"
+    nick: "gjuniioor"
+blog: 
+    server: "wordpress.com"
+    nick: "gjuniioor"
+fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
+baseurl: "/"
 url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
