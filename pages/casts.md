@@ -25,5 +25,5 @@ permalink: /casts/
 
 # WebCasts
 
-* [Security Cast](https://youtube.com/securitycast
+* [Security Cast](https://youtube.com/securitycast)
 
