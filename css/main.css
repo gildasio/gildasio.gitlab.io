@@ -81,3 +81,25 @@ pre {
     border-radius: 3px;
     overflow:auto;
 }
+
+audio {
+  width: 90%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 1px dashed rgba(255, 255, 255, 0.5);
+}
+
+caption {
+    display: none;
+}
+
+table a {
+    color: white;
+}
