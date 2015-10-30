@@ -1,6 +1,6 @@
 ---
-layout: post
-title: *Casts
+layout: page
+title: "*Casts"
 permalink: /casts/
 ---
 
