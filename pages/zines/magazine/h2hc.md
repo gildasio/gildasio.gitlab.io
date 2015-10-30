@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "H2HC Magazine"
 permalink: /zines/h2hc/
 ---
