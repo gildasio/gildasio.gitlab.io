@@ -19,6 +19,10 @@ footer {
     margin-bottom: 15px;
     color: rgba(220,220,0,0.8);
     font-weight: bold;
+    width: 60%;
+    border-top: dashed 1px rgba(255,255,255,0.5);
+    margin: auto;
+    padding-top: 10px;
 }
 header {
     margin-top: 25px;
