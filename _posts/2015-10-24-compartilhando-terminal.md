@@ -3,6 +3,8 @@ layout: post
 title:  "Compartilhando o termial - ShellShare &amp; Asciinema"
 date:   2015-10-24 11:16:49
 categories:
+    - blog
+tags:
     - linux
     - terminal
     - CLI Lindo!

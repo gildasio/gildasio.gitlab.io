@@ -3,6 +3,8 @@ layout: post
 title:  "Arch Linux + XFCE - Dark Clean"
 date:   2015-05-06 21:32:46
 categories:
+    - blog
+tags:
     - linux
     - screenshot
     - archlinux

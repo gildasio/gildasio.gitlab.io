@@ -3,6 +3,8 @@ layout: post
 title:  "Se Precavendo Contra Roubo de Celular"
 date:   2015-10-24 11:16:48
 categories:
+    - blog
+tags:
     - android
     - mobile
     - seguranca

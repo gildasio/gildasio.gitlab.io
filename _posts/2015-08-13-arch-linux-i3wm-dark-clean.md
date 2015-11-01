@@ -3,6 +3,8 @@ layout: post
 title:  "Arch Linux + i3wm - Dark Clean"
 date:   2015-08-13 11:16:48
 categories:
+    - blog
+tags:
     - linux
     - screenshot
     - archlinux

@@ -3,6 +3,8 @@ layout: post
 title:  "Contribuindo Para Projetos Abertos no Github"
 date:   2015-07-30 11:16:47
 categories:
+    - blog
+tags:
     - programacao
     - git
 ---

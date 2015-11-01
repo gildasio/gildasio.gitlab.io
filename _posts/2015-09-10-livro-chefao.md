@@ -3,6 +3,8 @@ layout: post
 title:  "Book Review : Chefão - Kevin Poulsen"
 date:   2015-09-10 11:16:48
 categories:
+    - blog
+tags:
     - "book review"
 ---
 
