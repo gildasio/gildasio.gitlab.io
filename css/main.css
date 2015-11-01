@@ -71,6 +71,10 @@ img {
     width: 50%;
     margin-left: 25%;
 }
+iframe {
+    width: 800px;
+    height: 450px;
+}
 
 /* Table style */
 audio {

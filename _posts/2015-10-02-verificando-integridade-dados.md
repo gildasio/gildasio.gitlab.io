@@ -17,7 +17,7 @@ Nessa minha primeira vídeo aula abordo um tema muito importante: Integridade de
 
 Dá uma olhadinha no vídeo e manda bala em críticas. :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XjkEXpv37Nw" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XjkEXpv37Nw" frameborder="0" allowfullscreen></iframe>
 
 Abaixo segue alguns links para complementar o assunto tratado:
 
