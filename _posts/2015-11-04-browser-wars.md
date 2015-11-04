@@ -21,6 +21,8 @@ Está disponível no Youtube, e pode ser já acessado clicando nos links a segui
 
 ## Resumo
 
+### Alerta de spoiler!!
+
 É mostrado como a criação de um navegador gráfico (Mosaic, o primeiro) para a internet mudou completamente o rudo da coisa. Antes, como é dito no documentário, "tinha de ser muito geek para se empolgar com isso (internet)", já que as páginas eram apenas textos (tente acessar pelo lynx e terá uma breve ideia) mas a partir do surgimento desse mágico software que transformava o www de simples linhas para hipertexto, com imagens e recursos de áudio e vídeo, a coisa mudou.
 
 Dá para notar a "humildade" de B. Gates em certas partes da narrativa e como a Microsoft foi a se tornar o monopólio quando se trata de PCs, deixando para trás poderosos nomes, como Novel e IBM.
