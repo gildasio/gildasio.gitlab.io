@@ -9,7 +9,7 @@ permalink: /category/
 </header>
 
 <ul class="tag-box inline">
-{% assign list = site.tags %}  
+{% assign list = site.tags | sort %}
     {% for category in list %} 
         <li>
             <a href="#{{ category[0] }}">
@@ -21,8 +21,8 @@ permalink: /category/
 {% assign list = nil %}
 </ul>
 
-
-{% for category in site.tags %} 
+{% assign taglist = site.tags | sort %}
+{% for category in taglist %} 
  <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
  <ul class="post-list">
   {% assign list = category[1] %}  
@@ -35,3 +35,4 @@ permalink: /category/
   {% assign group = nil %}
  </ul>
 {% endfor %}
+{% assign taglist = nil %}
