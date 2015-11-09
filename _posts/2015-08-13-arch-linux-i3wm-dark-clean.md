@@ -8,7 +8,7 @@ tags:
     - linux
     - screenshot
     - archlinux
-    - "CLI Lindo!"
+    - cli lindo!
 ---
 
 Uma rápida personalização do i3 Window Manager.

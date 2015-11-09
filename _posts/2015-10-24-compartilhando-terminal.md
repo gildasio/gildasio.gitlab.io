@@ -7,7 +7,7 @@ categories:
 tags:
     - linux
     - terminal
-    - CLI Lindo!
+    - cli lindo!
 ---
 
 ## Introdução
