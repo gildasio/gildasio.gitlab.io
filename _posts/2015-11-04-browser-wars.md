@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Documentário :: Browser Wars"
+title:  "Documentário :: Browser Wars - The rise and fall of Netscape and its battle against Microsoft"
 date:   2015-11-04 08:00:00
 categories:
     - movies
