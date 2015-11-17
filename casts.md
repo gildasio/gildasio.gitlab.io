@@ -15,6 +15,7 @@ permalink: /casts/
 * [Dragões de Garagem](http://scienceblogs.com.br/dragoesdegaragem/)
 * [Hack’n’Cast](http://hackncast.org/)
 * [I Shot the Sheriff](http://www.naopod.com.br/)
+* [Piratas da Internet](https://piratasdainternet.github.io/)
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/)
 * [SegInfo Cast](https://www.seginfo.com.br/seginfocast/)
 * [Segurança Legal](http://www.segurancalegal.com/)
