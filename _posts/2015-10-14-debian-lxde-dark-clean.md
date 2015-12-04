@@ -12,7 +12,7 @@ tags:
 
 ![Print]({{ site.baseurl }}images/posts/2015/04.png)
 
-Veja o print maior clicando <a title="ScreenShot" href="{{ site.baseurl }}images/posts/2015/02.png" target="_blank">aqui</a>.
+Veja o print maior clicando <a title="ScreenShot" href="{{ site.baseurl }}images/posts/2015/04.png" target="_blank">aqui</a>.
 
 *Icon Patch: <a href="http://djany.deviantart.com/art/Gnome-Buuf-Deuce-1-1-R8-73339997" target="_blank">http://djany.deviantart.com/art/Gnome-Buuf-Deuce-1-1-R8-73339997</a>
 
