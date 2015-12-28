@@ -7,13 +7,14 @@ categories:
 tags:
     - documentario
     - internet
+    - google
 ---
 
 ## Informações
 
 "Internet Search" - ou "A Pesquisa" - é o segundo episódio da série "Download: The True Story of the Internet" - ou, traduzido para "A Verdadeira História da Internet" - produzido pela Discovery Channel.
 
-> Já fiz um post sobre o primeiro episódios, "Browser Wars", confira aqui: [0]
+> Já fiz um post sobre o primeiro episódio, "Browser Wars", confira aqui: [0]
 
 Está disponível no Youtube, e pode ser já acessado clicando nos links a seguir:
 
@@ -25,7 +26,7 @@ Está disponível no Youtube, e pode ser já acessado clicando nos links a segui
 
 O fato de ser o John Heilemann o "responsável" por essa linha de documentários deixa mais seguros quem assiste e já tenha pesquisado por ele. O cara é realmente uma fera quando se trata de jornalismo e coisas relacionadas. Um ícone nesse quesito. 
 
-A obra é de muito valor, principalmente para aqueles que tem um fascínio por ver como as coisas surgiram e ganharam força. E é exatamente isso que é retratado ... A forma como o Google ganhou forças, o motivo de como o Yahoo! caiu quando se fala de buscas ...
+A obra é de muito valor, principalmente para aqueles que tem um fascínio por ver como as coisas surgiram e ganharam força. E é exatamente isso que é retratado ... A forma como o Google ganhou forças, o motivo de como o Yahoo! caiu quando se fala de buscas.
 
 Um ponto ruim é que não é mostrado o fato de o Yahoo! ter alimentado o monstro que o degolou, como é tratado em um livro que ainda vou fazer um review sobre. Assina o [feed]({{ site.baseurl }}feed/) que um dia aparece rsrs.
 

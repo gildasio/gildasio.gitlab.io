@@ -15,7 +15,9 @@ Estava conversando com um amigo que está estudando python e tudo mais, e então
 
 > Qual a diferença entre == e is no python?
 
-Para quem não sabe, no python tem o operador *is* que "tem a mesma função do *==*. Veja:
+> OBS: Recomendo para quem começar a ler esse post que vá até o final. Há coisas que só terão correto sentido quando complementadas. Recomendo fortemente também que leia os comentários! Há uma boa discussão a respeito disso por lá! Thanks!
+
+Para quem não sabe, no python tem o operador *is* que "tem a mesma função" do *==*. Veja:
 
 ```python
 >>> x = 10
@@ -39,7 +41,7 @@ False
 
 Viu só? Pois bem, o que que acontece então??
 
-O python tem um mecanismo interessante nesse ponto... Quando se tratam de *coisas pequenas* ele utiliza de ponteiros para apontar outros rótulos para um mesmo endereço de memória. Quando o que é armazenado na variável já começa a crescer, fica maior e tal, ele já não usa disso, para não pesar, mas sim de outro endereço ...
+O python tem um mecanismo interessante nesse ponto... Quando se tratam de *coisas pequenas* ele utiliza de ponteiros para apontar outros rótulos para um mesmo endereço de memória. Quando o que é armazenado na variável já começa a crescer, fica maior e tal, ele já não usa disso, para não pesar, mas sim de outro endereço.
 
 Seria um cache que ele faz de alguns tipos de objetos, entre eles estão int e string, por exemplo. Float e dicionário já não são assim.
 

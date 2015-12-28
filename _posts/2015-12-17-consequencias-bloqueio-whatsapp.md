@@ -18,21 +18,16 @@ Basicamente falando, o motivo de ter esse bloqueio foi que o WhatsApp (ou Facebo
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="pt" dir="ltr">Por determinação judicial, o WhatsApp será bloqueado em todo Brasil de 0h de 17/12 até 23h59 de 18/12. <a href="https://t.co/wS04E0Xl0S">https://t.co/wS04E0Xl0S</a></p>&mdash; TIM BRASIL (@TIMBrasil) <a href="https://twitter.com/TIMBrasil/status/677273056302276609">16 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="und" dir="ltr"><a href="https://t.co/17BXdjaafm">pic.twitter.com/17BXdjaafm</a></p>&mdash; Claro Brasil (@ClaroBrasil) <a href="https://twitter.com/ClaroBrasil/status/677251907044433920">16 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="und" dir="ltr"><a href="https://t.co/T4qZTuLujz">pic.twitter.com/T4qZTuLujz</a></p>&mdash; NET OFICIAL (@NEToficial) <a href="https://twitter.com/NEToficial/status/677307263015501824">17 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="und" dir="ltr"><a href="https://t.co/0JnG8DBCDT">pic.twitter.com/0JnG8DBCDT</a></p>&mdash; GVT (@gvtoficial) <a href="https://twitter.com/gvtoficial/status/677276801782165505">16 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A princípio, a Oi foi a única operadora da internet do Brasil que foi contra esse bloqueio, alegando que esse tipo de medida afeta mais ao usuário brasileiro que a empresa estadunidense:
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="pt" dir="ltr">A Oi foi a única operadora contra o bloqueio do WhatsApp. <a href="https://twitter.com/hashtag/aconexaonaopodeparar?src=hash">#aconexaonaopodeparar</a>. <a href="https://t.co/1zpMlcHPtW">https://t.co/1zpMlcHPtW</a></p>&mdash; Diga Oi! (@digaoi) <a href="https://twitter.com/digaoi/status/677544158337331200">17 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Muito foi publicado sobre formas de bypassar esse bloqueio utilizando VPNs e Proxies. Querendo não fazer um texto repetido como esses, procurei um tema que abordasse de maneira mais original e o fato da segurança sobre esse bypass me deu essa ideia.
 
@@ -49,13 +44,10 @@ Sou um usuário do Telegram há muito tempo. Meu aplicativo de IM preferido. Des
 Portanto, desde que fiquei maravilhado com tanta coisa boa comecei a convidar pessoas para o uso do Telegram. Algumas vieram (sigam me os bons rsrs) porém outras tratou como Xiitismo. Mas foi só surgir a notícia desse bloqueio que em instantes, hora ou outra recebia notificações de novos contatos aparecendo no Telegram. Isso foi noticiado pelo Twitter do Telegram:
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="en" dir="ltr">Over 500.000 users from Brazil signed up for Telegram within the last three hours.</p>&mdash; Telegram Messenger (@telegram) <a href="https://twitter.com/telegram/status/677278277657055232">17 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="en" dir="ltr">More than 1.000.000 new users from Brazil today and growing. If you&#39;ve just joined, check this out: <a href="https://t.co/x1haKyjvzQ">https://t.co/x1haKyjvzQ</a></p>&mdash; Telegram Messenger (@telegram) <a href="https://twitter.com/telegram/status/677295986281181188">17 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="en" dir="ltr">1.500.000 and counting, SMS-Gateways overloading. Hang on, your codes are coming! We&#39;ve got all hands on deck to accommodate the crazy load.</p>&mdash; Telegram Messenger (@telegram) <a href="https://twitter.com/telegram/status/677313217866125314">17 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Essa massiva migração de gente tentando se livrar da maldição de não ter com quem conversar causou problemas técnicos com o aplicativo. Servidores não caíram, mas hoje pela manhã, era notável a queda de desempenho, por exemplo, para a transferência de mídia.
 
@@ -73,7 +65,6 @@ E matérias sobre isso é o que não falta. Segue alguns links:
 Fornecedores de mercadoria usam a plataforma para receberem e negociarem pedidos. Prestadores de serviços utilizam a plataforma como meio de contato. E segundo o Vincent Bevins, é utilizado até mesmo para votação por membros do Congresso:
 
 <blockquote class="twitter-tweet" lang="pt"><p lang="en" dir="ltr">Brazil is a country in which members of Congress coordinate how they will vote on major issues in their private WhatsApp groups. Really.</p>&mdash; Vincent Bevins (@Vinncent) <a href="https://twitter.com/Vinncent/status/677229299204771842">16 dezembro 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Bem, visto que foi utilizado até para campanha política [\[7\]][7], não fico nada espantado com o tuíte acima. Serviços para propaganda e envio de mensagem em massa também é facilmente encontrado. Veja exemplo de um [\[8\]][8]. Portanto, cuidado onde você fica deixando seu número de contato.
 

@@ -30,4 +30,4 @@ Tiveram vários momentos no livro que me chamaram muita atenção. Entre eles, o
 
 Teve um outro momento em que me chamou muita atenção: uma breve discussão a respeito de privacidade dos usuários. Esse assunto, hoje em dia, é muito comum de ver conversas sobre ele, mas imagine ter algo do tipo já antes mesmo da virada do século. Pois é! No momento em que agentes da lei queriam os <em>logs</em> da rede da faculdade em que Max usara para fazer algumas brincadeiras, isso veio à tona.
 
-Pois bem, melhor me conter por aqui! Quem quiser mais <em>spoilers</em> pode vir falar comigo, só não vou deixar aqui para não estragar a leitura dos demais. Muito obrigado por sua leitura e até o próximo post (será que é outro <a href="https://gjuniioor.wordpress.com/category/livros/" target="_blank">Book Review</a>? Vejamos...). Flws!
+Pois bem, melhor me conter por aqui! Quem quiser mais <em>spoilers</em> pode vir falar comigo, só não vou deixar aqui para não estragar a leitura dos demais. Muito obrigado por sua leitura e até o próximo post (será que é outro <a href="https://gjuniioor.github.io/books/" target="_blank">Book Review</a>? Vejamos...). Flws!
