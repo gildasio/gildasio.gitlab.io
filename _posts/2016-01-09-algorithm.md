@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Algorithm"
-date:   2016-01-09 18:00:00
+date:   2016-01-11 15:30:00
 categories:
-    - movie
+    - movies
 tags:
     - espionagem
     - filme
