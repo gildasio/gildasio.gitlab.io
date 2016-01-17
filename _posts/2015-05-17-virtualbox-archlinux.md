@@ -61,8 +61,6 @@ Com isso que fizemos até agora, já temos o essencial (referente à programas) 
 
 ## Habilitando Módulo
 
-Isso mesmo! Para rodar o VirtualBox precisa-se rodar um módulo em específico, que é o "*vboxdrv*":
-
 Isso mesmo! Para rodar o VirtualBox precisa-se rodar um módulo em específico, que é o "vboxdrv":
 
 ```

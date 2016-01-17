@@ -24,7 +24,7 @@ LVM (*Logical Volume Manager* - Gerenciador de Volume Lógico) permite gerenciar
 
 LVM tem alguns conceitos bacanas a se abordar que guardarei para quando fizer um melhor sentido nesse texto. :) Se tiver interesse, recomendo a leitura de alguns links: [\[2\]][2], [\[3\]][3], [\[4\]][4], [\[5\]][5], [\[6\]][6] e [\[7\]][7]. E como são textos direcionados exclusivamente à LVM e não à implementação dele em uma instalação de um sistema, recomendo ainda mais para quem quer entendê-lo melhor.
 
-Luks foi o que me motivou a fazer todo esse processo e por consequência, fazer esse post. Lembra que falei da criptografia do disco? Pois bem, ele quem vai permitir isso para a gente. Rapidamente falando, Luks é uma espicificação de encriptação de disco que veio para padronizar esse processo. Antes era utilizado de vários formatos diferentes, mas com o Luks isso foi resolvido. Vamos lá!
+Luks foi o que me motivou a fazer todo esse processo e por consequência, fazer esse post. Lembra que falei da criptografia do disco? Pois bem, ele quem vai permitir isso para a gente. Rapidamente falando, Luks é uma esecificação de encriptação de disco que veio para padronizar esse processo. Antes era utilizado de vários formatos diferentes, mas com o Luks isso foi resolvido. Vamos lá!
 
 ## Instalação
 
