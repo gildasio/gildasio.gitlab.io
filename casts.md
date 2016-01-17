@@ -21,6 +21,7 @@ permalink: /casts/
 * [Segurança Legal](http://www.segurancalegal.com/)
 * [Stay Safe PodCast](http://www.staysafepodcast.com.br/)
 * [Talk a Byte](http://www.tabcast.com.br/)
+* [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br)
 * [Void](http://voidpodcast.com/)
 * [Zone of Front-Enders](http://zofe.com.br/)
 
