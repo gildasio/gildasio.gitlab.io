@@ -6,4 +6,4 @@ permalink: /zines/
 
 # Magazines
 
-* [H2HC]({{ site.baseurl }}zines/h2hc)
+* [H2HC](http://h2hc.com.br/revista)
