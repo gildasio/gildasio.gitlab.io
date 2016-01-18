@@ -7,7 +7,7 @@ categories:
 tags:
 	- archlinux
 	- linux
-	-screenshot
+	- screenshot
 ---
 
 ![Screenshot]({{ site.baseurl }}images/posts/2016/02.jpg)
