@@ -97,6 +97,13 @@ iframe {
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+.feed-recomendation {
+	border-top: 1px dashed rgba(255,255,255,0.5);
+	border-bottom: 1px dashed rgba(255,255,255,0.5);
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 
 /* Table style */
 audio {
