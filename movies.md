@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Movies Review"
 permalink: /movies/
 ---
