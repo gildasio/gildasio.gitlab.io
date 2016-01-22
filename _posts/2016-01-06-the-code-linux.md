@@ -7,7 +7,7 @@ categories:
 tags:
     - documentario
     - linux
-    - programação
+    - programacao
 ---
 
 Tudo bem que é um documentário um tanto quanto antigo (dá para perceber pela imagem e feição dos entrevistados) mas há um enorme valor à comunidade por conta de todas as coisas abordadas e assuntos polêmicos bem explicados. Quanto a assunto polêmicos me refiro a alguns em específico:
