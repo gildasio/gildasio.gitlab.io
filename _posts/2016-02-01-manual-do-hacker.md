@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magazine Review :: Manual do Hacker ed. 01 - On Line Editora"
-date:   2015-12-27 11:00:00
+date:   2016-02-01 11:00:00
 categories:
     - books
 tags:
