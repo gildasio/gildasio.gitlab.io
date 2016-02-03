@@ -19,15 +19,15 @@ O Github é uma ótima ferramenta para gerenciar projetos de Software Livre ou O
 
 Muitas coisas bacanas são faladas no livro, segue uma breve lista:
 
-* [x] Issues
-* [x] Wiki
-* [x] Releases
-* [x] Organizations and Teams
-* [x] Pull Requests
-* [x] Inline comments
-* [x] Github Pages
-* [x] Project Statistics
-* [x] Personal Security
+* Issues
+* Wiki
+* Releases
+* Organizations and Teams
+* Pull Requests
+* Inline comments
+* Github Pages
+* Project Statistics
+* Personal Security
 
 E cada um desses pontos passei a anotar e a seguir as boas práticas ditas.
 
