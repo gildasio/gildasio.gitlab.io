@@ -6,6 +6,7 @@ categories:
     - movies
 tags:
     - ativismo
+    - direitos autorais
     - documentario
     - biografia
     - historia real
