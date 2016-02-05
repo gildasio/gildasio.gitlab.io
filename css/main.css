@@ -80,8 +80,8 @@ pre {
     overflow:auto;
 }
 img {
-    width: 50%;
-    margin-left: 25%;
+    width: 80%;
+    margin-left: 10%;
     border: 1px dashed rgba(255,255,255,0.5);
     padding: 8px;
     -webkit-border-radius: 3px;
