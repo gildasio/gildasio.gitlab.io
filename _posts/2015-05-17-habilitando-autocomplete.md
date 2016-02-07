@@ -23,29 +23,29 @@ Antes de mostrar o pulo do gato - que é bem simples na verdade - vou deixar doi
 
 O que teremos de fazer é adicionar uma determinada regra ao shell para que ele entenda que deve completar os parâmetros dos programas determinados, com outros comandos. E isso é feito com um simples comando, veja para o *sudo* como ficaria:
 
-```
+~~~
 $ complete -cf sudo
-```
+~~~
 
 E para o *man*:
 
-```
+~~~
 $ complete -cf man
-```
+~~~
 
 Como são simples comandos, podemos adicioná-los aos arquivos que são executados quando abrimos uma janela de terminal.
 
 Para nosso usuário atual apenas:
 
-```
+~~~
 $ vim ~/.bashrc
-```
+~~~
 
 E para qualquer usuário do sistema:
 
-```
+~~~
 # vim /etc/bash.bashrc
-```
+~~~
 
 *P.S.*: Essa dica não é válida apenas para o *sudo* e *man*, abra sua mente e pense em novas perspectivas de uso também, como por exemplo para o *whatis*, *whereis* e demais! :)
 

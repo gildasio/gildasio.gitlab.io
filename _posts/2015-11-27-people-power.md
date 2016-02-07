@@ -39,10 +39,10 @@ Na época foi possível ver o Facebook batendo de frente com grandes corporaçõ
 
 ## Links 
 
-```
+~~~
 [0] - {{ site.url }}{{ site.baseurl }}movies/browser-wars/
 [1] - {{ site.url }}{{ site.baseurl }}movies/internet-search/
 [2] - {{ site.url }}{{ site.baseurl }}movies/bubble/
 [3] - https://www.youtube.com/watch?v=f42J_reRO0Q
 [4] - https://www.youtube.com/watch?v=iInFcimLgbI
-```
+~~~

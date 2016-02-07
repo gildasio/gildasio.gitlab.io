@@ -25,9 +25,9 @@ A ideia começou como uma piada. Um bando de gente que não se conhecia fazendo 
 
 Porém não se deixe levar pelo início. O ideal do *"grupo de hackers anonymous"* foi longe. Bateu de frente com grandes instituições financeiras, governos e cultos. Muitas batalhas foram vencidas. Bem, não temos a SOPA, PIPA nem a PEC-37 por ai. Nas palavras de um entrevistado no documentário: 
 
-```
+~~~
 "E o Anonymous se autoproclama o Chefão da Internet, e as vezes isso se prova ser verdade."
-```
+~~~
 
 Não poderia concordar mais! A internet é, de longe, um dos melhores veículos de comunicação que já existiu. Dela surge de tudo: empresas milionárias, ideias inovadoras, crimes. E porque não revoluções? Aqui mesmo no Brasil presenciamos isso anos atrás, com a *revolta dos 20 centavos* (?), ou *revolta do vinagre* (?), se quiser por um nome.
 
@@ -35,9 +35,9 @@ Ainda não li, mas segundo amigos, o livro **We Are Anonymous** conta melhor a h
 
 E para finalizar, deixo mais uma citação de um entrevistado no documentário: 
 
-```
+~~~
 "Gostaria de viver em um estado onde o governo teme seu povo, não o contrário."
-```
+~~~
 
 > Se quiser, pode assistir o documentário aqui mesmo:
 

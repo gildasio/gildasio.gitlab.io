@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python - Diferença entre == e is"
+title:  "Dica Rápida :: Python - Diferença entre == e is"
 date:   2015-11-15 22:25:00
 categories:
     - blog
@@ -19,25 +19,25 @@ Estava conversando com um amigo que está estudando python e tudo mais, e então
 
 Para quem não sabe, no python tem o operador *is* que "tem a mesma função" do *==*. Veja:
 
-```python
+~~~python
 >>> x = 10
 >>> y = 10
 >>> x == y
 True
 >>> x is y
 True
-```
+~~~
 
 Mas...
 
-```python
+~~~python
 >>> x = 1000
 >>> y = 1000
 >>> x == y
 True
 >>> x is y
 False
-```
+~~~
 
 Viu só? Pois bem, o que que acontece então??
 
@@ -47,7 +47,7 @@ Seria um cache que ele faz de alguns tipos de objetos, entre eles estão int e s
 
 Para ter uma ideia melhor disso, vamos ver os endereços que as variáveis ocupam e o resultado da comparação:
 
-```python
+~~~python
 >>> x = 10
 >>> y = 10
 >>> hex(id(x))
@@ -58,11 +58,11 @@ Para ter uma ideia melhor disso, vamos ver os endereços que as variáveis ocupa
 True
 >>> x is y
 True
-```
+~~~
 
 Perceba que ele pega o mesmo endereço ... Agora, se colocarmos valores maiores:
 
-```python
+~~~python
 >>> x = 1000
 >>> y = 1000
 >>> hex(id(x))
@@ -73,7 +73,7 @@ Perceba que ele pega o mesmo endereço ... Agora, se colocarmos valores maiores:
 True
 >>> x is y
 False
-```
+~~~
 
 Ou seja, o *is* (como a tradução mostra) vai verificar se algo é aquilo a que a comparação está se referindo, ou seja, se são a mesma coisa. Já o *==* vai analisar se são iguais, assim como o esperado.
 
@@ -81,25 +81,25 @@ Mais algumas demonstrações:
 
 * Float:
 
-```python
+~~~python
 >>> x = 1.0
 >>> y = 1.0
 >>> x == y
 True
 >>> x is y
 False
-```
+~~~
 
 * Dict:
 
-```python
+~~~python
 >>> x = [1]
 >>> y = [1]
 >>> x == y
 True
 >>> x is y
 False
-```
+~~~
 
 > Não há motivo para me aprofundar tanto aqui, é apenas uma dica rápida. Espero que resolva os problemas de dúvidas de quem necessitar ... Tem mais algum caso como esse? Quer tirar alguma dúvida do tipo? Comenta ai ou entra em contato (olha no topo da página).
 

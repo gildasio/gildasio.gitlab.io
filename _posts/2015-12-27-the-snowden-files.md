@@ -40,14 +40,14 @@ Por fim, realmente vale a reflexão a respeito disso tudo. Até mais ver!!
 
 ## Links
 
-```
+~~~
 [0] - http://cienciahacker.com.br
 [1] - http://cienciahacker.com.br/os-arquivos-snowden/
 [2] - {{ site.url }}{{ site.baseurl }}blog/gnupg/
 [3] - https://twitter.com/hashtag/NSApickuplines
 [4] - https://fb.me/partidopirata
 
-```
+~~~
 
 [0]: http://cienciahacker.com.br
 [1]: http://cienciahacker.com.br/os-arquivos-snowden/

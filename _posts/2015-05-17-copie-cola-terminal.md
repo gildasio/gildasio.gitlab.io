@@ -30,16 +30,16 @@ Sendo que a que nos interessa mesmo, nesse artigo (e no dia a dia), é a *clipbo
 
 No *xsel*, para selecionarmos o *clipboard* como a selection a usar é da seguinte forma:
 
-```
+~~~
 $ xsel -b
 $ xsel --clipboard
-```
+~~~
 
 Ou um ou outro comando. Ambos fazem o mesmo efeito. Já no *xclip* é:
 
-```
+~~~
 $ xclip -selection clipboard
-```
+~~~
 
 Sabendo disso, vamos usar sempre a seleção agora para poder fazer as alterações direto na nossa área de transferência.
 
@@ -49,23 +49,23 @@ Para a função de "*Ctrl + v*", que seria a de exibir o conteúdo da área de t
 
 É bem simples. Em ambos os programas fazemos da mesma forma:
 
-```
+~~~
 $ xsel -o
 $ xclip -o
-```
+~~~
 
 Mas saiba também que se o *xsel* não for acompanhado de nenhuma opção, o padrão é ele exibir o conteúdo. Logo, o comando acima equivale a:
 
-```
+~~~
 $ xsel
-```
+~~~
 
 Esses comandos vão exibir o conteúdo do *clipboard* na tela. Para passar para um arquivo, como valor de um programa, e outras funções afins, basta direcionar seu fluxo. Veja um exemplo para salvar no arquivo de nome *cv.txt* no diretório */tmp*:
 
-```
+~~~
 $ xsel > /tmp/cv.txt
 $ xclip -o > /tmp/cv.txt
-```
+~~~
 
 ## Ctrl + C
 
@@ -75,26 +75,26 @@ Então vamos lá... No início do texto eu disse que o de minha preferência é 
 
 No *xclip* podemos fazer a cópia da seguinte maneira:
 
-```
+~~~
 $ xclip -selection clipboard /tmp/cv.txt
-```
+~~~
 
 Utilizando o mesmo arquivo que salvamos anteriormente, só para exemplo.
 
 E no *xsel*, podemos fazer isso de duas maneiras:
 
-```
+~~~
 $ xsel -b < /tmp/cv.txt
 $ xsel -b -i < /tmp/cv.txt
-```
+~~~
 
 Ambos os comandos fazem o mesmo resultado. Mas agora que vem um pequeno diferencial do *xsel*: com ele, posso acrescentar (não substituir, acrescentar mesmo!) dados ao clipboard.
 
 Para isso, posso utilizar de um parâmetro que dispomos:
 
-```
+~~~
 $ xsel -b -a < /tmp/cv.txt
-```
+~~~
 
 Faça a operação de *Ctrl + v* agora para verificar se não está com o conteúdo diferente! ;)
 
@@ -106,17 +106,17 @@ Aqui vou justificar um pouco minha preferência pelo *xsel*.
 
 Uma opção que acho interessante dele é eu poder limpar a selection que eu quiser. Basta usar o comando:
 
-```
+~~~
 $ xsel -c -b
-```
+~~~
 
 #### Trocando conteúdo da primary com a secondary
 
 Isso mesmo, para quem usa também a seleção primária e secundária dada como opções pelo programa pode ter a comodidade de trocar os seus valores usando apenas um parâmetro:
 
-```
+~~~
 $ xsel -x
-```
+~~~
 
 Claro que isso podemos fazer com o *xclip*, basta brincar um pouco com mais comandos nativos, mas dessa forma mostrada é bem mais simples, convenhamos! :D
 
@@ -124,9 +124,9 @@ Claro que isso podemos fazer com o *xclip*, basta brincar um pouco com mais coma
 
 Pois é! Para aqueles apaixonados (*a.k.a. psicóticos*) que gostam de saber de qualquer coisa que dê errado no computador, pode usar a opção de gerar log caso apresente algum erro na execução do procedimento.
 
-```
+~~~
 $ xsel -l
-```
+~~~
 
 O padrão do endereço do arquivo é *~/.xsel.log*.
 

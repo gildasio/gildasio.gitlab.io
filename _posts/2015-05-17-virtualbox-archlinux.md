@@ -23,39 +23,39 @@ Nesse artigo vou abordar os seguintes tópicos:
 
 A instalação é, de certa forma, simples. Primeiramente, terá de instalar o pacote VirtualBox:
 
-```
+~~~
 # pacman -S virtualbox
-```
+~~~
 
 Depois você precisará instalar os módulos. Mas antes, tem de saber qual o seu *kernel* e escolher o módulo relacionado à ele. Para saber a versão do *kernel* que você usa:
 
-```
+~~~
 $ uname -r
-```
+~~~
 
 Após rodar o comando acima, verifique qual é o *kernel* instalado por aí. Se for o ARCH:
 
-```
+~~~
 # pacman -S virtualbox-host-modules
-```
+~~~
 
 Caso seja o *kernel* LTS:
 
-```
+~~~
 # pacman -S virtualbox-host-modules-lts
-```
+~~~
 
 E, por fim, para poder usar a interface gráfica mais comum, que é baseada no Qt, precisa instalá-lo:
 
-```
+~~~
 # pacman -S qt
-```
+~~~
 
 *P.S.*: eu não precisei, mas para evitar que aconteça algum problema contigo, melhor adicionar logo seu usuário ao grupo do VirtualBox (**Ah! Não preciso avisar para substituir "gjuniioor" pelo seu usuário, né?!**):
 
-```
+~~~
 # gpasswd -a gjuniioor vboxusers
-```
+~~~
 
 Com isso que fizemos até agora, já temos o essencial (referente à programas) para rodar o VirtualBox, mas ainda precisamos de uma coisinha... Siga.
 
@@ -63,15 +63,15 @@ Com isso que fizemos até agora, já temos o essencial (referente à programas) 
 
 Isso mesmo! Para rodar o VirtualBox precisa-se rodar um módulo em específico, que é o "vboxdrv":
 
-```
+~~~
 # modprobe vboxdrv
-```
+~~~
 
 Possa ser que após fazer isso, a modificação não surta efeito. Então, você roda esse comando e certamente vai resolver:
 
-```
+~~~
 # depmod -a
-```
+~~~
 
 ## Habilitando Módulos para rodar no Boot
 
@@ -79,9 +79,9 @@ Sempre que você iniciar seu computador, vai precisar rodar o módulo para poder
 
 Basta criar um arquivo em */etc/modules-load.d/*, pode ser com o nome "*virtualbox.conf*" mesmo:
 
-```
+~~~
 # echo vboxdrv >> /etc/modules-load.d/virtualbox.conf
-```
+~~~
 
 E pronto! Agora, sempre que iniciar a máquina, já terá o módulo rodando e com isso o VirtualBox vai rodar de boas.
 
@@ -91,16 +91,16 @@ Até aqui, o que temos já pode rodar as máquias no modo de rede NAT e rede int
 
 O Arch Linux não vem com o programa "*ifconfig*", mas sim com o "*ip*" (que é uma atualização). A questão é que o VirtualBox precisa dele para esses modos. O pacote que tem esse programa é o "*net-tools*". Então, só instalar, né?! Quase isso...
 
-```
+~~~
 # pacman -S net-tools
-```
+~~~
 
 Depois disso, vamos precisar rodar dois módulos:
 
-```
+~~~
 # modprobe vboxnetadp
 # modprobe vboxnetflt
-```
+~~~
 
 *P.S.*: vamos ver se está lendo só por ler ou querendo aprender... Faça os passos já ditos anteriormente, para caso o carregamento do módulo não tenha surtido efeito e também habilite para rodar já no boot.
 
@@ -112,9 +112,9 @@ Os adicionais para convidados permitem que o VirtualBox faça, por exemplo, comp
 
 Para conseguir isso, precisamos instalar um complemento do VirtualBox:
 
-```
+~~~
 # pacman -S virtualbox-guest-iso
-```
+~~~
 
 ## Extension Pack
 
@@ -126,9 +126,9 @@ Para instalar, temos duas possibilidades. Vejamos.
 
 Basta executar o comando abaixo:
 
-```
+~~~
 $ yaourt -S virtualbox-ext-oracle
-```
+~~~
 
 #### Pelo VirtualBox:
 

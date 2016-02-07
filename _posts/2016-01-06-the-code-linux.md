@@ -37,7 +37,7 @@ Houve um ponto que achei muito interessante de ser falado que foi pelo pai do Li
 
 E sabe aquele famoso e-mail que sempre é citado que o Linus mandou para a lista do Minix falando do que estava fazendo? Pois bem, no documentário é citado (olha ele ai abaixo), e em algumas pesquisas por conta disso, consegui encontrar uma espécie de "backup" que o Google mantém da lista, [aqui \[0\]][0].
 
-```
+~~~
 Hello everybody out there using minix -
 
 I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things).
@@ -49,7 +49,7 @@ Linus (torvalds@kruuna.helsinki.fi)
 PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(.
 
 — Linus Torvalds
-```
+~~~
 
 Como estou pegando o costume de já facilitar a vida de quem quer assistir as obras, fica aqui o documentário para você:
 
@@ -57,8 +57,8 @@ Como estou pegando o costume de já facilitar a vida de quem quer assistir as ob
 
 ## Links
 
-```
+~~~
 [0]: https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ
-```
+~~~
 
 [0]: https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ

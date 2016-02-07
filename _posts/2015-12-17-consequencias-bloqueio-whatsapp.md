@@ -96,7 +96,7 @@ Espero ter tratado, no mínimo, de forma que deixe possibilidades para mais pesq
 
 ## Links
 
-```
+~~~
 [0] - http://www.ibope.com.br/pt-br/noticias/Paginas/WhatsApp-e-o-aplicativo-mais-usado-pelos-internautas-brasileiros.aspx
 [1] - https://telegram.org/blog
 [2] - http://talesaugusto.biz/whatsapp-para-negocios-aula-gratis-whatsapp-marketing/
@@ -108,7 +108,7 @@ Espero ter tratado, no mínimo, de forma que deixe possibilidades para mais pesq
 [8] - http://www.whatsapp-propaganda.com.br/
 [9] - http://lifehacker.com/hola-better-internet-sells-your-bandwidth-turning-its-1707496872
 [10] - {{ site.url }}{{ site.baseurl }}feed/
-```
+~~~
 
 [0]: http://www.ibope.com.br/pt-br/noticias/Paginas/WhatsApp-e-o-aplicativo-mais-usado-pelos-internautas-brasileiros.aspx
 [1]: https://telegram.org/blog

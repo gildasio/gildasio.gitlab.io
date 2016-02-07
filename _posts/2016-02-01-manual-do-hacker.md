@@ -81,11 +81,11 @@ Além disso faltava algo que acho muito bacana que são as referências. Não cu
 
 ## Links
 
-```
+~~~
 [0]: http://www.ubuntu.com/cloud/juju
 [1]: https://www.enlightenment.org/about-terminology
 [2]: {{ site.url }}{{ site.baseurl }}zines/
-```
+~~~
 
 [0]: http://www.ubuntu.com/cloud/juju
 [1]: https://www.enlightenment.org/about-terminology

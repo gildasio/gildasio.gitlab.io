@@ -27,7 +27,7 @@ Aaron era um cara magnífico! Lutou por muitas causas importantes! Entre elas, t
 
 Logo no início do documentário tem uma passagem do filósofo ativista Henry David Thoreau:
 
-```
+~~~
 En:
     Unjust laws exist;
 
@@ -45,7 +45,7 @@ Pt-Br:
     e obedecê-las até que sejam eficazes;
 
     ou transgredí-las de uma vez por todas?
-```
+~~~
 
 Isso realmente é um grande questionamento quando se trata de ativismo - em um [episódio \[3\]][3] do podcast Segurança Legal (que está em minha [lista dos que sigo \[4\]][4]) é tratado muito bem essa ideia, portanto, recomendo a todos que ouça.
 
@@ -60,11 +60,11 @@ Como informado no Segurança Legal - no episódio que linkei acima - manter um p
 
 Antes de finalizar gostaria de deixar uma citação dele que gosto muito:
 
-```
+~~~
 I try to be friends with everyone, but I hate it when you don't take me seriously.
 
 Eu tento ser amigo de todos, mas eu odeio quando não me levam a sério.
-```
+~~~
 
 > E por fim, deixo aqui o documentário para que vocês possam assistir agora mesmo:
 
@@ -74,7 +74,7 @@ Até mais ver, pessoal!
 
 ## Links
 
-```
+~~~
 [0]: http://softwarelivre.org/portal/noticias/como-honrar-a-vida-de-aaron-swartz
 [1]: https://github.com/aaronsw/watchdog
 [2]: http://www.aaronsw.com/
@@ -83,7 +83,7 @@ Até mais ver, pessoal!
 [5]: {{ site.url }}{{ site.baseurl }}books/chefao-kevin-poulsen/
 [6]: https://www.documentcloud.org/documents/217115-20110719-schwartz.html
 [7]: http://www.rememberaaronsw.com/memories/
-```
+~~~
 
 [0]: http://softwarelivre.org/portal/noticias/como-honrar-a-vida-de-aaron-swartz
 [1]: https://github.com/aaronsw/watchdog

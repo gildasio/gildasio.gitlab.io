@@ -16,7 +16,7 @@ tags:
 
 Screenshot mostrando cena do filme *"Efeito Dominó"* (ou *The Bank Job*), também com uminstância do terminal utilizando o programa *screenfetch* para algumas informações do sistema. Como shell estou utilizando o ZSH. Utilizo um tema nele, caso esteja interessado, aqui:
 
-```
+~~~
 PROMPT=$'%{$fg_bold[cyan]%}%~%{$fg_bold[white]%}$(git_prompt_info) %{$fg_bold[cyan]%}%D{[%I:%M:%S]}\
 >%{$reset_color%} '
 
@@ -24,7 +24,7 @@ ZSH_THEME_GIT_PROMPT_PREFIX=" %{$fg[white]%}("
 ZSH_THEME_GIT_PROMPT_SUFFIX=")%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="*"
 ZSH_THEME_GIT_PROMPT_CLEAN=""
-```
+~~~
 
 Dessa vez decidi fazer algo mais leve e menos *dark* como normalmente faço. Segue ai então um [wallpaper mais zen \[1\]][1], por exemplo.
 
@@ -32,11 +32,11 @@ Dessa vez decidi fazer algo mais leve e menos *dark* como normalmente faço. Seg
 
 ## Links
 
-```
+~~~
 [0]: {{ site.baseurl }}images/posts/2016/02.jpg
 [1]: {{ site.baseurl }}images/posts/2016/03.jpg
 [2]: http://gnome-look.org/content/show.php/ComixCursors?content=32627
-```
+~~~
 
 [0]: {{ site.baseurl }}images/posts/2016/02.jpg
 [1]: {{ site.baseurl }}images/posts/2016/03.jpg

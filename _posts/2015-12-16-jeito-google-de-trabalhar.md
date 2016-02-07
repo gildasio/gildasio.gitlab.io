@@ -24,8 +24,8 @@ Para quem já leu um pouco que seja sobre a empresa, ou viu documentários ou fi
 
 ## Links 
 
-```
+~~~
 [0] - {{ site.url }}{{ site.baseurl }}movies/internet-search/
-```
+~~~
 
 [0]: {{ site.url }}{{ site.baseurl }}movies/internet-search/

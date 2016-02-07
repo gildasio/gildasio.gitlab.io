@@ -40,7 +40,7 @@ No mais, é isso ... Bacana o documentário ... Antes de analisar outros, vamos 
 
 ## Links 
 
-```
+~~~
 [0] - {{ site.url }}{{ site.baseurl }}movies/browser-wars/
 [1] - https://www.youtube.com/watch?v=Jjbh9FFW6VE
 [2] - https://www.youtube.com/watch?v=xuTotkb78nQ

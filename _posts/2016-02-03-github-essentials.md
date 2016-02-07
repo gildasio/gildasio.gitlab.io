@@ -39,23 +39,23 @@ Outra coisa, além do conteúdo, pelo qual recomendo esse livro é a fácil leit
 
 Para finalizar, deixo aqui uma passagem desse livro que achei bastante, sério mesmo, muitíssimo importante, e quero sempre, cada vez mais, implementar nos projetos que venha a fazer parte:
 
-```
+~~~
 "With great projects comes great documentations"
 
 "Com grandes projetos vem grandes documentações"
-```
+~~~
 
 Até mais ver, gente boa!
 
 ## Links
 
-```
+~~~
 [0]: http://softwarelivre.org/aurium/blog/software-livre-e-codigo-aberto--onde-esta-a-diferenca
 [1]: https://github.com/lampiaosec/virgulino
 [2]: https://lampiaosec.github.io
 [3]: https://fernandonogueiracosta.wordpress.com/2010/12/24/como-ler-livros-o-guia-classico-para-a-leitura-inteligente/
 [4]: https://fernandonogueiracosta.files.wordpress.com/2010/12/como-ler-livros.pdf
-```
+~~~
 
 [0]: http://softwarelivre.org/aurium/blog/software-livre-e-codigo-aberto--onde-esta-a-diferenca
 [1]: https://github.com/lampiaosec/virgulino

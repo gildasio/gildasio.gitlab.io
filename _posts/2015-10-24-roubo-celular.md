@@ -120,11 +120,11 @@ Fazendo esses passos você já diminuirá as chances de ser prejudicado caso ten
 
 <h2>Referências</h2>
 
-```
+~~~
 [1] - http://www.infonet.com.br/fernandofreitas/ler.asp?id=174291
 [2] - https://s3.amazonaws.com/Files_Podcast/SBSeg-artigo.pdf
 [3] - http://www.segurancalegal.com/2015/08/episodio-82-avaliacao-de-seguranca-de.html
 [4] - https://pt.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 [5] - http://www.tecmundo.com.br/tutorial/23694-o-que-e-e-como-descobrir-o-imei-do-seu-celular-.htm
 [6] - https://play.google.com/store/apps/details?id=com.google.android.apps.adm&amp;hl=pt-br
-```
+~~~

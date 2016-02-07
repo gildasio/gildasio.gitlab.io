@@ -60,7 +60,7 @@ Portanto, é isso! Veremos mais reviews como esses mais para frente. Se curtiu, 
 
 ## Links 
 
-```
+~~~
 [0] - https://www.youtube.com/watch?v=qQwCx-Ey6x8
 [1] - https://www.youtube.com/watch?v=1G3SUTmioQE
 [2] - https://www.youtube.com/watch?v=AjItKPhbWNM
@@ -69,4 +69,4 @@ Portanto, é isso! Veremos mais reviews como esses mais para frente. Se curtiu, 
 [5] - https://pt.wikipedia.org/wiki/Netscape_Navigator
 [6] - http://www.justice.gov/sites/default/files/atr/legacy/2006/03/03/20.pdf
 [7] - http://www.garyreback.com/garyreback.html
-```
+~~~

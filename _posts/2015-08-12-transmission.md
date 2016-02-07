@@ -36,9 +36,9 @@ Será necessário instalar dois pacotes para isso: `transmission-cli` e `transmi
 
 Portanto, para quem utiliza o Arch basta rodar:
 
-```
+~~~
 # pacman -S transmission-cli transmission-remote-cli
-```
+~~~
 
 Para quem utiliza outros sistemas, deve saber utilizar o gerenciador de pacotes que roda por ai. Caso não, comenta que a gente se une na causa.
 
@@ -48,15 +48,15 @@ Vou primeiramente tratar sobre o *Daemon* do serviço. Para termos nossa máquin
 
 Para iniciar:
 
-```
+~~~
 $ transmission-daemon
-```
+~~~
 
 E para finalizar:
 
-```
+~~~
 $ killall transmission-daemon
-```
+~~~
 
 Uma alternativa para isso seria usar `transmission-remote --exit`, mas acho a primeira forma melhor.
 
@@ -90,16 +90,16 @@ Um outro uso que curto demais é direcionar para um diretório que faz parte da 
 
 A opção que configura isso são as seguintes:
 
-```
+~~~
 "watch-dir": "~/directory/to/watch",
 "watch-dir-enable": true
-```
+~~~
 
 Mas acontece de em certos momentos isso não funcionar e ainda não encontrei o motivo. Você pode rodar o daemon da seguinte forma, e isso funciona rsrs:
 
-```
+~~~
 $ transmission-daemon -c ~/directory/to/watch
-```
+~~~
 
 Pode-se criar um alias para executar de forma mais simples.
 

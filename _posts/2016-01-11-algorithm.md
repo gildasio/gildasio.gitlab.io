@@ -16,19 +16,19 @@ Algorithm (ou "Algoritmo") é um filme de 2014 que tem o tema *hacking* muito en
 
 Nele tem passagens da [ideologia \[0\]][0] e [ética hacker \[1\]][1] [\[2\]][2] bem marcantes. As opiniões ditas também são bastante comum em pessoas desse meio:
 
-```
+~~~
 "When I look around I don't see borders walls or locks. I see puzzles."
 
 "Quando eu olho em volta não vejo barreiras, paredes ou fronteiras. Eu vejo desafios."
-```
+~~~
 
 Ou, outro exemplo:
 
-```
+~~~
 "Information should be free."
 
 "Informação deve ser livre."
-```
+~~~
 
 Que é um dos princípios do que é dito como **ética hacker**. São eles:
 
@@ -46,19 +46,19 @@ O que por se torna bem possível, já que se passa em San Francisco, lugar onde 
 
 Outro ponto bastante importante são as dicas reais que são dadas. Como por exemplo, de onde fazer certos testes:
 
-```
+~~~
 "[...] the point is, i'm not doing this from home."
 
 "[...] o ponto é, eu não estou fazendo isso de casa."
-```
+~~~
 
 E claro, que não podia faltar, um tempo falando sobre senhas, spams e como isso é pego no ato de uma engenharia social:
 
-```
+~~~
 "Do you know where the weakest link in any security system is? It's you, with your shitty passwords and how you share every part of your life online [...] And your willingness to click on links that promise something you want."
 
 "Você sabe onde o elo mais fraco em qualquer sistema de segurança está? Está em você, com suas senhas de merda e como você compartilha cada parte de sua vida online [...] E sua vontade de clicar em links que prometem algo que você quer."
-```
+~~~
 
 > Sobre a questão do spam abordado na passagem acima, recomendo que assistam a [essa palestra \[5\]][5] cômica que alguém me enviopu recentemente:
 
@@ -92,7 +92,7 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 
 ## Links
 
-```
+~~~
 [0]: http://www.phrack.org/issues/7/3.html#article
 [1]: https://en.wikipedia.org/wiki/Hacker_ethic
 [2]: https://pt.wikipedia.org/wiki/Ética_hacker
@@ -101,7 +101,7 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 [5]: https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 [6]: http://www.binarywolf.com/249/pringles_cantenna.htm
 [7]: {{ site.url }}{{ site.baseurl }}books/the-snowden-files/
-```
+~~~
 
 [0]: http://www.phrack.org/issues/7/3.html#article
 [1]: https://en.wikipedia.org/wiki/Hacker_ethic

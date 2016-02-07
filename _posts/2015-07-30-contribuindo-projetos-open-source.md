@@ -81,9 +81,9 @@ Agora que já tem o projeto copiado em sua conta, acesse o repositório em seu n
 
 Feito isso, agora precisamos de ter o código em nossa máquina para edição, certo? Basta clonar o repositório:
 
-```
+~~~
 $ git clone https://github.com/seu_usuario/virgulino
-```
+~~~
 
 Entre no diretório do repositório e já pode começar a editar.
 
@@ -114,9 +114,9 @@ Nada bonito isso, né?!
 
 Primeiro, adicione o link do repositório oficial ao seu repositório local:
 
-```
+~~~
 $ git remote add upstream https://github.com/lampiaosec/virgulino
-```
+~~~
 
 > **Mais uma nota:** O nome *upstream* é apenas uma convenção que se foi criada. Ou seja, boas práticas... Mas isso não te impede de inserir um nome diferente, como *link_dos_cara*.
 
