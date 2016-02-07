@@ -31,4 +31,6 @@ Foi originalmente preparada para a Semana de Ciência, Tecnologia e Sustentabild
 
 [{{ site.baseurl }}talks/seguranca-da-informacao-privacidade/01.pdf]({{ site.baseurl }}talks/seguranca-da-informacao-privacidade/01.pdf)
 
+> Em algumas versões do Firefox o PDF está sendo exibido com um fundo branco. Para melhor visualização, olhe com um leitor de PDF ou as imagens abaixo:
+
 [{{ site.baseurl }}talks/seguranca-da-informacao-privacidade/]({{ site.baseurl }}talks/seguranca-da-informacao-privacidade/imagens/)[a-o].png
