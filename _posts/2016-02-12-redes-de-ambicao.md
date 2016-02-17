@@ -64,6 +64,10 @@ Então, só nos resta compartilhar esse ótimo/belo/<del>foda</del> trabalho de 
 
 Até mais ver, pessoALL!!
 
+## Update
+
+Entrei em contato com a galera do [aircrack-ng \[6\]][6] e enviei [esse screenshot \[7\]][7] para eles. Olha na [página dos caras \[8\]][8] o comentário sobre! Show demais!
+
 ## Links
 
 ~~~
@@ -73,6 +77,9 @@ Até mais ver, pessoALL!!
 [3]: http://www.pucpr.br/eventos/educere/educere2007/anaisEvento/arquivos/PA-534-05.pdf
 [4]: https://www.facebook.com/redesdeambicaofilme
 [5]: https://www.youtube.com/user/redesdeambicaofilme/
+[6]: http://www.aircrack-ng.org/
+[7]: {{ site.url }}{{ site.baseurl }}images/posts/2016/12.png
+[8]: http://www.aircrack-ng.org/movies.html
 ~~~
 
 [0]: http://www.malurodrigues.tv.br/alunos-do-senac-rio-preto-lancam-filme-redes-de-ambicao/
@@ -81,4 +88,6 @@ Até mais ver, pessoALL!!
 [3]: http://www.pucpr.br/eventos/educere/educere2007/anaisEvento/arquivos/PA-534-05.pdf
 [4]: https://www.facebook.com/redesdeambicaofilme
 [5]: https://www.youtube.com/user/redesdeambicaofilme/
-
+[6]: http://www.aircrack-ng.org/
+[7]: {{ site.url }}{{ site.baseurl }}images/posts/2016/12.png
+[8]: http://www.aircrack-ng.org/movies.html
