@@ -46,7 +46,14 @@ Bem, agora sim, acredito que segui o ideal de "[Dicas rápidas \[7\]][7]" haha .
 ## Links
 
 ~~~
-[0]: {{ site.url }}{{ site.baseurl }}blog/python-diferenca-operadores/
+[0]: http://phpba.com.br
+[1]: https://github.com/phpba/phpba.github.io
+[2]: http://jekyllrb.com/
+[3]: https://github.com/bencentra/centrarium
+[4]: https://github.com/phpba/phpba.github.io/pull/7
+[5]: https://github.com/phpba/phpba.github.io/commit/59faf1a02a6a22985baa385018444955307b64f3
+[6]: {{ site.url }}{{ site.baseurl }}blog/substituir-texto-em-varios-arquivos/
+[7]: {{ site.url }}{{ site.baseurl }}category/#dicas
 ~~~
 
 [0]: http://phpba.com.br
