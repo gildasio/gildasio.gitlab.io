@@ -5,6 +5,7 @@ date:   2016-02-07 03:00:00
 categories:
     - blog
 tags:
+    - cli lindo!
     - dicas
     - linux
     - programacao
