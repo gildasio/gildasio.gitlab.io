@@ -5,10 +5,8 @@ date:	2016-02-26 07:00:00
 categories:
     - movies
 tags:
-    - criptografia
-    - cypherpunks
     - documentario
-    - privacidade
+    - hacking
 ---
 
 > Esse é um documentário clássico. Quase que regra para todos da área de T.I. O título em português do Brasil é **A Origem dos Hackers**.
