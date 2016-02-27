@@ -145,7 +145,7 @@ Seguindo a ideia de que o Arch é uma distro minimalista (e eu adoro isso) o i3 
 
 OBS: O i3 usa o `dmenu` como um laucher, então, é legal ter para facilitar a vida.
 
-Agora, adicione a linha para executar o i3 ao iniciar o x: `echo "exec i3" &gt; ~/.xinitrc`.
+Agora, adicione a linha para executar o i3 ao iniciar o x: `echo "exec i3" > ~/.xinitrc`.
 
 Para rodar basta chamar o `startx`.
 
