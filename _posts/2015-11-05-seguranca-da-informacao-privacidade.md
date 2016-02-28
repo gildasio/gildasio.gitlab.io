@@ -8,6 +8,7 @@ tags:
     - criptografia
     - seguranca
     - privacidade
+    - talks
 ---
 
 ## Descrição
