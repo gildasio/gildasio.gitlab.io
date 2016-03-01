@@ -145,7 +145,7 @@ Seguindo a ideia de que o Arch é uma distro minimalista (e eu adoro isso) o i3 
 
 OBS: O i3 usa o `dmenu` como um laucher, então, é legal ter para facilitar a vida.
 
-Agora, adicione a linha para executar o i3 ao iniciar o x: `echo "exec i3" &gt; ~/.xinitrc`.
+Agora, adicione a linha para executar o i3 ao iniciar o x: `echo "exec i3" > ~/.xinitrc`.
 
 Para rodar basta chamar o `startx`.
 
@@ -168,7 +168,7 @@ A primeira linha instala os programas necessários para rodar o som. A segunda �
 Talvez você precise adicionar para o `pulseaudio` ser executado ao iniciar o i3. Talvez não... De qualquer forma, teste, se precisar, basta fazer isso:
 
 ~~~
-$ echo 'exec --no-startup-id "pulseaudio --start' &gt;&gt; ~/.i3/config
+$ echo 'exec --no-startup-id "pulseaudio --start' >> ~/.i3/config
 ~~~
 
 Para adicionar um ícone informando sobre o status do volume, pode configurar mexendo em um arquivo (e o guia do i3 mostra como) ou pode simplesmente copiar meu arquivo de configuração para você: [Github](https://github.com/gjuniioor/i3wm-files).
