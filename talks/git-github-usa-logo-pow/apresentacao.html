@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+
+		<link rel="shortcut icon" href="img/lampiaosec.png">
+		<title>Git & Github: usa logo, pow! :: Por gjuniioor</title>
+
+		<meta name="description" content="Apresentação feita em um encontro do Pyladies por @gjuniioor, integrante do LampiãoSec">
+		<meta name="author" content="gjuniioor">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/league.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<section>
+						<h1>Git & Github</h1>
+						<h2>usa logo, pow!</h2>
+						<br />
+						<a href="https://github.com/gjuniioor">gjuniioor</a>
+					</section>
+					<section>
+						<h2>Quem é esse menino do computador?</h2>
+						<ul>
+							<li>Mizeravão em <a href="https://gjuniioor.github.io">gjuniioor.github.io</a></li>
+							<li>Cangaceiro do <a href="https://lampiaosec.github.io">LampiãoSec</a></li>
+							<li>Maluco Beleza Supremo do <a href="http://raulhc.cc">Raul Hacker Club</a></li>
+							<li>:wq! do <a href="http://eofcommunity.com/forum">End Of File</a></li>
+						</ul>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Git</h2>
+					</section>
+					<section id="fragments">
+						<h3 class="fragment">O que é?</h3>
+						<h3 class="fragment">Qual necessidade??</h3>
+						<ul>
+							<li class="fragment">Histórico de código</li>
+							<div class="fragment" style="text-align:center;">
+								<img src="img/historico.gif">
+								<br />
+								<a href="http://thecodinglove.com/post/131283784334/when-i-find-a-bug-and-start-ctrl-z-all-my-recent">fonte</a>
+							</div>
+						</ul>
+					</section>
+					<section id="fragments">
+						<h3>O que é?</h3>
+						<h3>Qual necessidade??</h3>
+						<ul>
+							<li class="fragment">Merge de código</li>
+							<div class="fragment" style="text-align:center;">
+								<img src="img/merge.gif">
+								<br />
+								<a href="http://thecodinglove.com/post/131078658363/branching-and-merging-in-tfs-sourcecontrol">fonte</a>
+							</div>
+						</ul>
+					</section>
+					<section>
+						<h2>Instalação</h2>
+						<ul>
+							<li>Linux:
+								<pre><code>$ pacman -S git
+$ apt-get install git
+$ yum install git</code></pre>
+							</li>
+							<li><a href="https://git-scm.com/downloads">Git Downloads</a></li>
+						</ul>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Primeiros Passos</h2>
+						<div class="fragment">
+							<img src="img/primeiros_passos.gif">
+							<br />
+							<a href="http://thecodinglove.com/post/91847972280/when-i-try-to-close-popups-on-a-tablet">fonte</a>
+						</div>
+					</section>
+					<section>
+						<h3>git config</h3>
+						<pre><code>$ git config --global user.name "moreninho22"
+$ git config --global user.email "moreninho22@bol.com.br"
+$ git config --list
+user.email=moreninho22@bol.com.br
+user.name=moreninho22</code></pre>
+					</section>
+					<section>
+						<h3>git init</h3>
+						<pre><code>$ git init
+Initialized empty Git repository in ~/test/.git/</code></pre>
+					</section>
+					<section>
+						<h3>Os espaços do Git</h3>
+						<ul>
+							<li class="fragment">Working directory</li>
+							<li class="fragment">Index</li>
+							<li class="fragment">HEAD</li>
+						</ul>
+					</section>
+					<section>
+						<h3>git status</h3>
+						<pre><code>$ git status
+On branch master
+						
+Initial commit
+						
+nothing to commit (create/copy files and use "git add" to track)</code></pre>
+					</section>
+					<section>
+						<h3>git add</h3>
+						<pre><code>$ git add .</code></pre>
+					</section>
+					<section>
+						<h3>git commit</h3>
+						<pre><code>$ git commit -m "Descrição desse commit"
+[master (root-commit) cdd55e2] Descrição desse commit
+1 file changed, 1 insertion(+)
+create mode 100644 index.html</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Gostou, né?! Bora ver mais!!</h2>
+						<div>
+							<img src="img/feliz.gif">
+							<br />
+							<a href="http://thecodinglove.com/post/91855870053/when-the-intern-discovers-mvc">fonte</a>
+						</div>
+					</section>
+					<section>
+						<h3>git log</h3>
+						<pre><code>$ git log
+commit cdd55e290575ea3679352ee44ac9879d866297a5
+Author: moreninho22 <moreninho22@bol.com.br>
+Date:   Tue Mar 1 10:56:22 2016 -0300
+				
+    Descrição desse commit</code></pre>
+					</section>
+					<section>
+						<h3>git show</h3>
+						<pre><code>$ git show cdd55e290575ea3679352ee44ac9879d866297a5
+commit cdd55e290575ea3679352ee44ac9879d866297a5
+Author: moreninho22 <moreninho22@bol.com.br>
+Date:   Tue Mar 1 10:56:22 2016 -0300
+
+    Descrição desse commit
+	
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..c09fc3c
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1 @@
++oi</code></pre>
+					</section>
+					<section>
+						<h3>git diff (--staged)</h3>
+						<pre><code>$ git diff
+diff --git a/index.html b/index.html
+index c09fc3c..e303df0 100644
+--- a/index.html
++++ b/index.html
+@@ -1 +1 @@
+-oi
++Oi, amiguinho</code></pre>
+					</section>
+					<section>
+						<h3>git mv</h3>
+						<pre><code>$ git mv index.html hello.html</code></pre>
+					</section>
+					<section>
+						<h3>git rm</h3>
+						<pre><code>$ git rm file</code></pre>
+					</section>
+					<section>
+						<h3>git reset</h3>
+						<pre><code>$ git reset hello.html</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Github</h3>
+					</section>
+					<section>
+						<h3 class="fragment">O que é?</h3>
+						<h3 class="fragment">Qual necessidade?</h3>
+					</section>
+					<section>
+						<h3>Alguns clicks ...</h3>
+						<ul>
+							<li class="fragment">Criar conta</li>
+							<li class="fragment">Apresentação da interface</li>
+							<li class="fragment">Criar repositórios</li>
+							<li class="fragment">Organizações</li>
+						</ul>
+					</section>
+					<section>
+						<h3>git clone</h3>
+						<pre><code>$ git clone https://github.com/lampiaosec/virada-hacker
+Cloning into 'virada-hacker'...
+remote: Counting objects: 216, done.
+remote: Compressing objects: 100% (15/15), done.
+remote: Total 216 (delta 3), reused 0 (delta 0), pack-reused 199
+Receiving objects: 100% (216/216), 15.57 MiB | 411.00 KiB/s, done.
+Resolving deltas: 100% (44/44), done.
+Checking connectivity... done.</code></pre>
+					</section>
+					<section>
+						<h3>git remote</h3>
+						<pre><code>$ git remote add origin https://github.com/gjuniioor/testeando</code></pre>
+					</section>
+					<section>
+						<h3>git push</h3>
+						<pre><code>$ git push -u origin master</code></pre>
+					</section>
+					<section>
+						<h3>git pull</h3>
+						<pre><code>$ git pull
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/gjuniioor/testeando
+   cdd55e2..7defde2  master     -> origin/master
+Updating cdd55e2..7defde2
+Fast-forward
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 README.md</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Branchs</h3>
+					</section>
+					<section>
+						<h3 class="fragments">O que são?</h3>
+						<h3 class="fragments">Pra que serve?</h3>
+					</section>
+					<section>
+						<h3>git branch (-a)</h3>
+						<pre><code>$ git branch novo_branch</code></pre>
+					</section>
+					<section>
+						<h3>git checkout (-b)</h3>
+						<pre><code>$ git checkout novo_branch</code></pre>
+					</section>
+					<section>
+						<h3>git push</h3>
+						<pre><code>$ git push origin novo_branch
+Username for 'https://github.com': gjuniioor
+Password for 'https://gjuniioor@github.com':
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 332 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/gjuniioor/testeando
+ * [new branch]      novo_branch -> novo_branch</code></pre>
+					</section>
+					<section>
+						<h3>Issues</h3>
+						<h3>Pull Requests</h3>
+					</section>
+					<section>
+						<h3>git merge</h3>
+						<pre><code>$ git merge novo_branch
+$ git commit -m "Closes #1"
+[master 8eeca72] Closes #1
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 index.html
+$ git push</code></pre>
+					</section>
+					<section>
+						<h3>Remover branchs</h3>
+						<pre><code>$ git branch -d novo_branch
+Deleted branch novo_branch (was 4ed54fe).
+$ git push origin :novo_branch
+Username for 'https://github.com': gjuniioor
+Password for 'https://gjuniioor@github.com':
+To https://github.com/gjuniioor/testeando
+ - [deleted]         novo_branch</code></pre>
+					</section>
+				</section>
+				<section>
+					<h3>Outras funcionalidades massa!</h3>
+					<ul>
+						<li class="fragment">Wiki</li>
+						<li class="fragment">Label</li>
+						<li class="fragment">Milestone</li>
+						<li class="fragment">Gráficos</li>
+						<li class="fragment">Github Pages</li>
+					</ul>
+				</section>
+				<section>
+						<section>
+							<h2>Onde aprender mais?</h2>
+							<ul>
+								<li>
+									Web:
+									<ul>
+										<li><a href="https://gjuniioor.github.io/blog/contribuindo-projetos-open-source/">Contribuindo para projetos abertos no Github</a></li>
+										<li><a href="https://git-scm.com/docs/">Documentação do Git</a></li>
+										<li><a href="https://rogerdudler.github.io/git-guide/">Git Guide</a></li>
+										<li><a href="https://help.github.com">Help do Github</a></li>
+										<li><a href="https://try.github.io">Try Git</a></li>
+										<li><a href="https://marklodato.github.io/visual-git-guide/">Visual Git Guide</a></li>
+									</ul>
+								</li>
+								<li>
+									Livros:
+									<ul>
+										<li>Github Essentials, Packt Publishing</li>
+										<li>Git Essentials, Packt Publishing</li>
+										<li>Controlando Versões com Git e Github, Casa do Código</li>
+									</ul>
+								</li>
+							</ul>
+						</section>
+						<section>
+							<h1>Dúvidas??</h1>
+							<p><a href="https://gjuniioor.github.io">gjuniioor</a></p>
+						</section>
+				</section>
+			</div>
+		</div>
+
+		<img src="img/lampiaosec.png" style="position:fixed;top:10px;right:10px;" />
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				transition: 'slide',
+				slideNumber: true,
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
