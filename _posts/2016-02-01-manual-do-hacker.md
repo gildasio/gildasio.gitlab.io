@@ -12,6 +12,7 @@ tags:
     - linux
     - privacidade
     - seguranca
+    - livros
 ---
 
 ![Capa da revista "Manual do Hacker ed. 01"]({{ site.baseurl }}images/posts/2016/05.jpg)

@@ -10,6 +10,7 @@ tags:
     - internet
     - privacidade
     - seguranca
+    - livros
 ---
 
 ![Capa do Livro "The Snowden Files"]({{ site.baseurl }}images/posts/2015/09.jpg)

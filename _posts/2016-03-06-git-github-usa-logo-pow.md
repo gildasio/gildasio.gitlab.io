@@ -7,6 +7,7 @@ categories:
 tags:
     - oficinas
     - git
+    - github
     - programacao
     - talks
 ---

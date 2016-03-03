@@ -6,7 +6,9 @@ categories:
     - books
 tags:
     - git
+    - github
     - programacao
+    - livros
 ---
 
 ![Capa da revista "Manual do Hacker ed. 01"]({{ site.baseurl }}images/posts/2016/08.jpg)
