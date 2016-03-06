@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oficina :: Git & Github, usa logo, pow"
-date:   2016-03-06 14:00:00
+date:   2016-03-06 10:00:00
 categories:
     - talks
 tags:
