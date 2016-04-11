@@ -7,6 +7,7 @@ categories:
 tags:
     - criptografia
     - cypherpunks
+    - livros
 ---
 
 <div style="text-align: center;">
