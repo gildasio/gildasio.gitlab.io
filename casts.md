@@ -13,6 +13,7 @@ permalink: /casts/
 * [DioCast](http://www.diolinux.com.br/search/label/DioCast)
 * [Direito Digital](http://josemilagre.com.br/blog/podcast/)
 * [Dragões de Garagem](http://scienceblogs.com.br/dragoesdegaragem/)
+* [Eureka Podcast](https://eurekapod.wordpress.com/)
 * [Geek Out](https://geekout.fm/)
 * [Hack’n’Cast](http://hackncast.org/)
 * [I Shot the Sheriff](http://www.naopod.com.br/)
