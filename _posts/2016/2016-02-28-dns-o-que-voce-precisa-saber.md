@@ -5,6 +5,7 @@ date:   2016-02-28 18:30:00
 categories:
     - talks
 tags:
+    - dns
     - redes
     - talks
 ---
