@@ -36,13 +36,13 @@ $ uname -r
 Após rodar o comando acima, verifique qual é o *kernel* instalado por aí. Se for o ARCH:
 
 ~~~
-# pacman -S virtualbox-host-modules
+# pacman -S virtualbox-host-modules-arch
 ~~~
 
 Caso seja o *kernel* LTS:
 
 ~~~
-# pacman -S virtualbox-host-modules-lts
+# pacman -S linux-lts-headers virtualbox-host-dkms
 ~~~
 
 E, por fim, para poder usar a interface gráfica mais comum, que é baseada no Qt, precisa instalá-lo:
