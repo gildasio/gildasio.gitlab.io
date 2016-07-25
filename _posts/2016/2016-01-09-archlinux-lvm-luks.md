@@ -12,6 +12,9 @@ tags:
     - seguranca
 ---
 
+* TOC
+{:toc}
+
 > *Engraçado* que já fiz um post falando sobre [a pós instalação do Arch Linux \[0\]][0] antes mesmo de fazer a instalação. Portanto, depois daqui, recomendo que dê uma olhada nesse outro post. :)
 
 "Recentemente" foi encontrado um [bug no bootloader \[1\]][1] Grub, que pressionando backspace vinte e oito vezes resultava numa shell do Grub. Isso foi um reboliço danado na comunidade. A questão é que por se tratar de uma falha de exploração física, necessário ter acesso à máquina, "não precisa" dessa falha para uma possível invasão. Como com ela vai acontecer o reboot da máquina, você poderia fazer esse reboot manualmente e fazer o boot por um pen drive com um live CD, assim, vendo todos os arquivos da máquina.
@@ -49,6 +52,16 @@ Para tal, basta executar o wifi-menu, selecionar a rede e colocar a senha:
 ~~~
 # wifi-menu
 ~~~
+
+#### Update
+
+Um amigo me lembrou que não é só de wifi que vive o homem. Portanto, para conexão cabeada, você terá basicamente, de iniciar o DHCP após conectar o cabo:
+
+~~~
+# systemctl start dhcpcd
+~~~
+
+> Para mais informações leia [a página na Wiki do Archlinux sobre Redes Cabeadas \[8\]][8].
 
 ### Preparação dos Discos
 
@@ -274,6 +287,7 @@ Vlw, pessoal! Até a próxima!
 [5]: https://wiki.archlinux.org/index.php/LVM
 [6]: http://www.devin.com.br/lvm/
 [7]: http://www.hardware.com.br/dicas/entendendo-lvm.html
+[8]: https://wiki.archlinux.org/index.php/Network_configuration_(Português)
 ~~~
 
 [0]: {{ site.url }}{{ site.baseurl }}blog/pos-instalacao-archlinux/
@@ -284,3 +298,4 @@ Vlw, pessoal! Até a próxima!
 [5]: https://wiki.archlinux.org/index.php/LVM
 [6]: http://www.devin.com.br/lvm/
 [7]: http://www.hardware.com.br/dicas/entendendo-lvm.html
+[8]: https://wiki.archlinux.org/index.php/Network_configuration_(Português)
