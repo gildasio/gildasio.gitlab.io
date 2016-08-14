@@ -22,6 +22,7 @@ permalink: /casts/
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/)
 * [SegInfo Cast](https://www.seginfo.com.br/seginfocast/)
 * [Segurança Legal](http://www.segurancalegal.com/)
+* [SobreCast](https://sobrevivencialismo.com/tag/sobrecast/)
 * [Stay Safe PodCast](http://www.staysafepodcast.com.br/)
 * [Talk a Byte](http://www.tabcast.com.br/)
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br)
