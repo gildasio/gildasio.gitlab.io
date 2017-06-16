@@ -3,7 +3,7 @@ layout: post
 title:  "Dica Rápida :: Python - Diferença entre == e is"
 date:   2015-11-15 22:25:00
 categories:
-    - blog
+    - tips
 tags:
     - programacao
     - python

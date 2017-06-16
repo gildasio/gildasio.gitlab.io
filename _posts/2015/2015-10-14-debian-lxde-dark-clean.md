@@ -3,7 +3,7 @@ layout: post
 title:  "Debian + LXDE - Dark Clean - Again haha"
 date:   2015-10-14 11:16:48
 categories:
-    - blog
+    - tips
 tags:
     - linux
     - screenshot

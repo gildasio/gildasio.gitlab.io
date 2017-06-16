@@ -3,7 +3,7 @@ layout: post
 title:  "Dica Rápida :: Redimensionar Imagens via Linha de Comando"
 date:   2016-02-17 02:00:00
 categories:
-    - blog
+    - tips
 tags:
     - cli lindo!
     - dicas

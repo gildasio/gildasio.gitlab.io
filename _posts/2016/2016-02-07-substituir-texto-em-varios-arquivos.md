@@ -3,7 +3,7 @@ layout: post
 title:  "Dica Rápida :: Substituição de Texto em Vários Arquivos"
 date:   2016-02-07 03:00:00
 categories:
-    - blog
+    - tips
 tags:
     - cli lindo!
     - dicas

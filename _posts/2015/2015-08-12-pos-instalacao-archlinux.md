@@ -3,7 +3,7 @@ layout: post
 title:  "A Pós Instalação do Arch Linux"
 date:   2015-08-12 11:16:47
 categories:
-    - blog
+    - posts
 tags:
     - linux
     - archlinux

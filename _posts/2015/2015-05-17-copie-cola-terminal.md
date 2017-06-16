@@ -3,7 +3,7 @@ layout: post
 title:  "Copie/Cole conteúdo do terminal para o X e vice-versa"
 date:   2015-05-17 10:29:46
 categories:
-    - blog
+    - tips
 tags:
     - linux
     - terminal

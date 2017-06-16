@@ -3,7 +3,7 @@ layout: post
 title:  "Instalação do Arch Linux com LVM + Luks"
 date:   2016-01-09 11:00:00
 categories:
-    - blog
+    - posts
 tags:
     - archlinux
     - criptografia
@@ -23,7 +23,7 @@ E como quase sempre a solução para aumentar a sensação de segurança é reco
 
 ### LVM + Luks
 
-LVM (*Logical Volume Manager* - Gerenciador de Volume Lógico) permite gerenciar os discos com algumas funcionalidades interessantes, como por exemplo utilizar vários discos físicos para funcionar como um ou mais volumes, ou ainda poder remanejar o tamanho das partições e fazer toda essa gerência em tempo de execução. 
+LVM (*Logical Volume Manager* - Gerenciador de Volume Lógico) permite gerenciar os discos com algumas funcionalidades interessantes, como por exemplo utilizar vários discos físicos para funcionar como um ou mais volumes, ou ainda poder remanejar o tamanho das partições e fazer toda essa gerência em tempo de execução.
 
 LVM tem alguns conceitos bacanas a se abordar que guardarei para quando fizer um melhor sentido nesse texto. :) Se tiver interesse, recomendo a leitura de alguns links: [\[2\]][2], [\[3\]][3], [\[4\]][4], [\[5\]][5], [\[6\]][6] e [\[7\]][7]. E como são textos direcionados exclusivamente à LVM e não à implementação dele em uma instalação de um sistema, recomendo ainda mais para quem quer entendê-lo melhor.
 
@@ -211,7 +211,7 @@ Depois façamos:
 
 ~~~
 # locale-gen
-# echo LANG=pt_BR.UTF-8 > /etc/locale.conf 
+# echo LANG=pt_BR.UTF-8 > /etc/locale.conf
 ~~~
 
 #### Senha do root
@@ -227,7 +227,7 @@ Basta alterar normalmente:
 Agora precisaremos instalar as coisas para a internet funcionar com o wifi-menu:
 
 ~~~
-# pacman -S wireless_tools wpa_supplicant wpa_actiond dialog 
+# pacman -S wireless_tools wpa_supplicant wpa_actiond dialog
 ~~~
 
 > Por conta de esquecer de fazer isso que surgiu a dica de o que fazer caso precise voltar a utilizar o pen drive mesmo depois do sistema instalado. rs'

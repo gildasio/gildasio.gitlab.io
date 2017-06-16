@@ -3,7 +3,7 @@ layout: post
 title:	"Arch Linux + XFCE = Clean"
 date:	2016-01-17 21:00:00
 categories:
-    - blog
+    - tips
 tags:
     - archlinux
     - linux

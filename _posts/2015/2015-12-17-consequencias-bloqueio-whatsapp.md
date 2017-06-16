@@ -3,7 +3,7 @@ layout: post
 title:  "Consequências do Bloqueio do WhatsApp"
 date:   2015-12-17 16:15:00
 categories:
-    - blog
+    - posts
 tags:
     - seguranca
 ---

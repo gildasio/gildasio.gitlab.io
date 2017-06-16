@@ -3,7 +3,7 @@ layout: post
 title:  "Habilitando autocomplete para sudo, man e etc"
 date:   2015-05-17 10:29:47
 categories:
-    - blog
+    - tips
 tags:
     - linux
     - terminal

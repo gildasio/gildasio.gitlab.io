@@ -3,7 +3,7 @@ layout: post
 title:  "Checando a Integridade em Transferências de Dados"
 date:   2015-10-02 11:16:48
 categories:
-    - blog
+    - tips
 tags:
     - linux
     - terminal

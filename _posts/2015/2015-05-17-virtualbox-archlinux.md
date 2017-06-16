@@ -3,7 +3,7 @@ layout: post
 title:  "VirtualBox no ArchLinux"
 date:   2015-05-17 11:16:47
 categories:
-    - blog
+    - tips
 tags:
     - linux
     - archlinux

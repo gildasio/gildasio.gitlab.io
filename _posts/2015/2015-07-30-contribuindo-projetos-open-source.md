@@ -3,7 +3,7 @@ layout: post
 title:  "Contribuindo Para Projetos Abertos no Github"
 date:   2015-07-30 11:16:47
 categories:
-    - blog
+    - posts
 tags:
     - programacao
     - git
@@ -128,6 +128,6 @@ Ah!! Lembre-se de fazer essa atualização antes de começar a mexer no projeto!
 
 Bom, é isso! Talvez, posteriormente eu faça posts mostrando funcionalidades e como utilizar o Git (para não passar batido em alguns pontos), mas por enquanto, pronto! Não tem desculpas para usar dizendo que não sabe ajudar nesses projetos.
 
-Espero que vire um contribuinte assíduo! 
+Espero que vire um contribuinte assíduo!
 
 Até mais ver! :D

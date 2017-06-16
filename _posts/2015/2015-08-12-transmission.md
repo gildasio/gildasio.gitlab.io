@@ -3,7 +3,7 @@ layout: post
 title:  "Transmission - Gerencie seus torrents em CLI"
 date:   2015-08-12 11:16:48
 categories:
-    - blog
+    - tips
 tags:
     - linux
     - terminal

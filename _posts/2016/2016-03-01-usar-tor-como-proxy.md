@@ -3,7 +3,7 @@ layout: post
 title:  "Dica Rápida :: Usar Tor como proxy (no IRC)"
 date:   2016-03-01 17:00:00
 categories:
-    - blog
+    - tips
 tags:
     - archlinux
     - dicas

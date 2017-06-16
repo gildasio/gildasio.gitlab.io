@@ -3,7 +3,7 @@ layout: post
 title:	"Não foi possível iniciar o Dropbox [possível erro de permissão]"
 date:	2017-04-11 03:00:00
 categories:
-    - blog
+    - tips
 tags:
     - dropbox
     - error

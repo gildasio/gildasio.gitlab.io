@@ -3,7 +3,7 @@ layout: post
 title:  "Se Precavendo Contra Roubo de Celular"
 date:   2015-10-24 11:16:48
 categories:
-    - blog
+    - posts
 tags:
     - android
     - mobile
@@ -80,11 +80,11 @@ Após feito o B.O. (ou caso não tenha chance ainda) bloqueie seus números tele
 
 <blockquote>
   <strong>É importante sempre anotar e salvar os protocolos das ligações e procedimentos realizados ao menos até a poeira baixar e resolver todos esses problemas.</strong>
-  
+
   <strong>IMEI</strong>
-  
+
   É um código único por dispotivo, utilizado para identificar o mesmo em todo o mundo. Para descobrir o código IMEI, apenas tecle <code>*#06#</code> em seu dispositivo e guarde o número que aparece em local seguro e que possa ser facilmente acessado caso precise.
-  
+
   Mais informações em [4] e [5].
 </blockquote>
 

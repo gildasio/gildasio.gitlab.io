@@ -3,7 +3,7 @@ layout: post
 title:	"Driver SQLSrv com Laravel em Linux"
 date:	2017-03-24 01:00:00
 categories:
-    - blog
+    - tips
 tags:
     - laravel
     - linux
