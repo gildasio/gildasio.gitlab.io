@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: "Category List"
 permalink: /category/
 ---
@@ -10,7 +10,7 @@ permalink: /category/
 
 <ul class="tag-box inline">
 {% assign list = site.tags | sort %}
-    {% for category in list %} 
+    {% for category in list %}
         <li>
             <a href="#{{ category[0] }}">
                 {{ category[0] }}
@@ -22,10 +22,10 @@ permalink: /category/
 </ul>
 
 {% assign taglist = site.tags | sort %}
-{% for category in taglist %} 
+{% for category in taglist %}
  <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
  <ul class="post-list">
-  {% assign list = category[1] %}  
+  {% assign list = category[1] %}
   {% for post in list %}
    <li>
    <a href="{{ post.url }}">{{ post.title }}</a>
