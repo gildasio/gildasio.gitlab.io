@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Hackers - Computer Outlaws"
 date:	2016-02-26 07:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - documentario
     - hacking

@@ -3,7 +3,7 @@ layout: post
 title:  "Documentário :: The Code Linux"
 date:   2016-01-06 19:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - documentario
     - linux

@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Citizenfour"
 date:	2016-05-06 19:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - ativismo
     - documentario

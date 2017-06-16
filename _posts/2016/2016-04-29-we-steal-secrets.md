@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: We steal secrets: The story of Wikileaks"
 date:	2016-04-29 17:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - ativismo
     - documentario

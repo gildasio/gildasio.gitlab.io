@@ -3,7 +3,7 @@ layout: post
 title:  "Documentário :: People Power – Peer to peer technology, web 2.0, and social networking"
 date:   2015-11-27 12:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - direitos autorais
     - documentario

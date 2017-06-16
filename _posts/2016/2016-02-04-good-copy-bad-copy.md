@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Good Copy Bad Copy"
 date:	2016-02-04 17:30:00
 categories:
-    - movies
+    - reviews
 tags:
     - direitos autorais
     - documentario

@@ -3,7 +3,7 @@ layout: post
 title:	"Filme :: Piratas do Vale do Silício"
 date:	2016-07-24 20:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
 ---

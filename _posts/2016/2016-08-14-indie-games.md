@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Indie Games"
 date:	2016-08-14 12:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - documentario
     - jogos

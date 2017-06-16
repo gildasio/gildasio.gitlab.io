@@ -3,7 +3,7 @@ layout: post
 title:  "Documentário :: Downloaded - The Napster Revolution"
 date:   2016-01-27 09:30:00
 categories:
-    - movies
+    - reviews
 tags:
     - direitos autorais
     - documentario

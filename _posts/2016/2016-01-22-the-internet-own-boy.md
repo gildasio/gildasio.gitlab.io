@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: The Intenet's Own Boy"
 date:	2016-01-22 10:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - ativismo
     - direitos autorais

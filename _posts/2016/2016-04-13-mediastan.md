@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Mediastan"
 date:	2016-04-13 15:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
     - ativismo

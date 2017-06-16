@@ -3,7 +3,7 @@ layout: post
 title:  "Documentário :: O Jeito Google de Trabalhar"
 date:   2015-12-16 20:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - documentario
     - internet

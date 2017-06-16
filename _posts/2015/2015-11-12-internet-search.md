@@ -3,7 +3,7 @@ layout: post
 title:  "Documentário :: Internet Search – The rise of Google and Yahoo"
 date:   2015-11-12 08:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - documentario
     - internet

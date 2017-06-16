@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review :: GitHub Essentials - Achilleas Pipinellis"
 date:   2016-02-03 16:30:00
 categories:
-    - books
+    - reviews
 tags:
     - git
     - github

@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: Web Design Responsivo: Páginas adaptáveis para todos os dispositivos - Tárcio Zemel"
 date:   2016-11-23 14:30:00
 categories:
-    - books
+    - reviews
 tags:
     - frontend
     - livros

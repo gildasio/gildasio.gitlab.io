@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: Você é um sobrevivencialista de verdade? - Julio Lobo"
 date:   2016-08-14 12:00:00
 categories:
-    - books
+    - reviews
 tags:
     - carreira
     - livros

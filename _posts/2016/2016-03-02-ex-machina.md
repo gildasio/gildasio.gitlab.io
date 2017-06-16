@@ -3,7 +3,7 @@ layout: post
 title:	"Filme :: Ex Machina"
 date:	2016-03-02 07:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
     - inteligencia artificial

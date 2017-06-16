@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Revolution OS"
 date:	2016-05-12 17:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - documentario
     - linux

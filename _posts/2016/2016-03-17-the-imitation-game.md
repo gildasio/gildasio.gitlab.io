@@ -3,7 +3,7 @@ layout: post
 title:	"Filme :: The Imitation Game"
 date:	2016-03-17 04:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
 ---

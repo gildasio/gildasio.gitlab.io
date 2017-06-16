@@ -3,7 +3,7 @@ layout: post
 title:	"Filme :: Redes de Ambição"
 date:	2016-02-12 16:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
     - hacking

@@ -3,7 +3,7 @@ layout: post
 title:  "Magazine Review :: Manual do Hacker ed. 01 - On Line Editora"
 date:   2016-02-01 11:00:00
 categories:
-    - books
+    - reviews
 tags:
     - archlinux
     - cli lindo!

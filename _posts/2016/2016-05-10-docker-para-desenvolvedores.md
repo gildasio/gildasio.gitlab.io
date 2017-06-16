@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: Docker Para Desenvolvedores - Rafael Gomes & Luis Armando Bianchin"
 date:   2016-05-10 20:00:00
 categories:
-    - books
+    - reviews
 tags:
     - docker
     - infra

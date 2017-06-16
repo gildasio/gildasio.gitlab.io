@@ -3,7 +3,7 @@ layout: post
 title:	"Filme :: The Social Network"
 date:	2016-07-31 12:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
 ---

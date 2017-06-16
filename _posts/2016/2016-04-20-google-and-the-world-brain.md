@@ -3,7 +3,7 @@ layout: post
 title:	"Documentário :: Google and the world brain"
 date:	2016-04-20 17:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - direitos autorais
     - documentario

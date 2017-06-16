@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review :: The Snowden Files - Luke Harding"
 date:   2015-12-27 18:00:00
 categories:
-    - books
+    - reviews
 tags:
     - espionagem
     - historia real

@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review :: Linguagem C: Completa e Descomplicada - André Backes"
 date:   2016-11-23 12:00:00
 categories:
-    - books
+    - reviews
 tags:
     - c
     - livros

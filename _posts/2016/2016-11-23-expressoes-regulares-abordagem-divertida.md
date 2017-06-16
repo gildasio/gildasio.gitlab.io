@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review :: Expressões Regulares: Uma abordagem divertida - Aurélio Marinho"
 date:   2016-11-23 13:30:00
 categories:
-    - books
+    - reviews
 tags:
     - livros
     - programacao

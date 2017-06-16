@@ -3,7 +3,7 @@ layout: post
 title:  "Documentário :: We Are Legion: The Story of the Hacktivists"
 date:   2015-12-30 18:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - ativismo
     - documentario

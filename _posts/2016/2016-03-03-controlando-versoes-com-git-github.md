@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review :: Controlando versões com Git e Github - Alexandre Aquiles & Rodrigo Ferreira"
 date:   2016-02-03 16:30:00
 categories:
-    - books
+    - reviews
 tags:
     - git
     - github

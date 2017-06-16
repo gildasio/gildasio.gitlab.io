@@ -3,7 +3,7 @@ layout: post
 title:	"Filme :: The Fifth Estate"
 date:	2016-04-07 15:00:00
 categories:
-    - movies
+    - reviews
 tags:
     - filme
     - ativismo

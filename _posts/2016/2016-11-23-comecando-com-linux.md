@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: Começando com Linux - Daniel Romero"
 date:   2016-11-23 12:15:00
 categories:
-    - books
+    - reviews
 tags:
     - linux
     - livros

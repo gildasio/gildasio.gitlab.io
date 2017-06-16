@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: What you need to know about Docker - Scott Gallagher"
 date:   2016-11-23 14:00:00
 categories:
-    - books
+    - reviews
 tags:
     - docker
     - livros

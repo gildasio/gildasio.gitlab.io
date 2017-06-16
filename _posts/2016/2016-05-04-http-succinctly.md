@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: HTTP Succinctly - Scott Allen"
 date:   2016-05-04 01:00:00
 categories:
-    - books
+    - reviews
 tags:
     - http
     - livros

@@ -3,7 +3,7 @@ layout: post
 title:  "e-Book Review :: O mantra da produtividade - Dionatan Moura"
 date:   2016-08-10 15:00:00
 categories:
-    - books
+    - reviews
 tags:
     - livros
     - produtividade

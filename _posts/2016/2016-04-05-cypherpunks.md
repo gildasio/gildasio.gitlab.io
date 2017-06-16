@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review :: Cypherpunks - Julian Assange"
 date:   2016-04-05 11:00:00
 categories:
-    - books
+    - reviews
 tags:
     - criptografia
     - cypherpunks
