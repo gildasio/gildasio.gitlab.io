@@ -4,6 +4,8 @@ title: "*Zines"
 permalink: /zines/
 ---
 
-# Magazines
+A simple list of magazines or e-zines that a like.
+
+## Magazines
 
 * [H2HC](http://h2hc.com.br/revista)

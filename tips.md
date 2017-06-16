@@ -4,6 +4,8 @@ title: "Tips & Tricks"
 permalink: /tips/
 ---
 
+Just a little posts, with no long explanation.
+
 <ul class="posts">
     {% for post in site.categories.tips %}
         <li>

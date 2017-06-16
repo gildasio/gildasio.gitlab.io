@@ -4,6 +4,8 @@ title: "*Casts"
 permalink: /casts/
 ---
 
+A simple list of podcasts, screencasts or webcasts that a like.
+
 # PodCasts
 
 * [Clichê Cast](http://www.revistacliche.com.br)
