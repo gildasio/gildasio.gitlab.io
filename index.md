@@ -2,8 +2,8 @@
 layout: content
 ---
 
-Hi!
+Olá!
 
-I'm gjuniioor. I like stuff about computer, programming, linux, servers and security.
+Eu sou gjuniioor. Curto algumas coisas sobre computadores, programação, linux, servidores e segurança. Não necessariamente nessa ordem.
 
-So, enjoy this pages. If you have a comment, be free to do that.
+Pois bem, aproveite essas páginas. Se tiver algum comentário a fazer, sinta-se livre para fazê-lo, seja via comentário ou e-mail.

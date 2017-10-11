@@ -4,7 +4,7 @@ title: "*Zines"
 permalink: /zines/
 ---
 
-A simple list of magazines or e-zines that a like.
+Uma lista simples de revistas e e-zines que eu curto. [Em construção]
 
 ## Magazines
 

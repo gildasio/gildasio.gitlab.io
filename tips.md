@@ -4,7 +4,7 @@ title: "Tips & Tricks"
 permalink: /tips/
 ---
 
-Just a little posts, with no long explanation.
+Apenas pequenos posts, sem muitas explicações a respeito do assunto.
 
 <ul class="posts">
     {% for post in site.categories.tips %}

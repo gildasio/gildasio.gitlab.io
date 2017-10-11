@@ -1,17 +1,17 @@
-# My Website
+# Meu blog
 
 https://gjuniioor.github.io
 
-### About
+### Sobre
 
-I use [Github Pages](https://pages.github.com) with [jekyll](https://github.com/jekyll/jekyll) to make my website.
+Eu uso [Github Pages](https://pages.github.com) com [jekyll](https://github.com/jekyll/jekyll) para fazer esse site.
 
-[Bootstrap](http://getbootstrap.com/) was after added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
+[Bootstrap](http://getbootstrap.com/) foi adicionado depois para tornâ-lo responsível. Thanks, [@magnunleno](https://github.com/magnunleno).
 
-### Content
+### Conteúdo
 
-In this website you can see [posts](https://gjuniioor.github.io/blog/) (in brazilian portuguese) mainly about TI, [information security](https://gjuniioor.github.io/category/#seguranca), [programming](https://gjuniioor.github.io/category/#programacao) and [GNU/Linux](https://gjuniioor.github.io/category/#linux).
+Nesse site você pode ver [posts](https://gjuniioor.github.io/blog/) principalmente sobre TI, [segurança da informação](https://gjuniioor.github.io/category/#seguranca), [programação](https://gjuniioor.github.io/category/#programacao) e [GNU/Linux](https://gjuniioor.github.io/category/#linux).
 
-Have too reviews about [movies](https://gjuniioor.github.io/movies) and [books](https://gjuniioor.github.io/books) and lists of [podcasts](https://gjuniioor.github.io/casts), [screencasts](https://gjuniioor.github.io/casts) and [zines](https://gjuniioor.github.io/zines) that I follow.
+Tem, também, reviews sobre [filmes](https://gjuniioor.github.io/reviews) e [livros](https://gjuniioor.github.io/reviews) e uma lista de [podcasts](https://gjuniioor.github.io/casts), [screencasts](https://gjuniioor.github.io/casts) e [zines](https://gjuniioor.github.io/zines) que eu eventualmente acompanho.
 
-[My talks](https://gjuniioor.github.io/talks) too. :)
+Ah! Minhas [apresentações](https://gjuniioor.github.io/talks) também. :)

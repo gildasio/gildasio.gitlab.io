@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
-A list with talks that I have presentation somewhere.
+Uma lista com apresentações que eu fiz em alguns lugares.
 
 <ul class="posts">
     {% for post in site.categories.talks %}

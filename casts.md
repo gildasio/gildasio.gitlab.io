@@ -4,7 +4,7 @@ title: "*Casts"
 permalink: /casts/
 ---
 
-A simple list of podcasts, screencasts or webcasts that a like.
+Uma lista simples de podcasts, screencasts ou webcasts que eu gosto.
 
 # PodCasts
 

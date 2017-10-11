@@ -4,7 +4,7 @@ title: "Reviews"
 permalink: /reviews/
 ---
 
-Reviews about somethings like books, e-books, movies, tv shows ...
+Reviews sobre coisas como livros, e-books, filmes, documentários, séries ...
 
 <ul class="posts">
     {% for post in site.categories.reviews %}
