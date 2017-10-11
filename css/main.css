@@ -203,7 +203,7 @@ table a {
 .comment {
     color: rgba(255,255,255,0.3);
 }
-.reserved {
+.reserved, main li > a {
     color: rgba(220,220,0,0.4);
 }
 .string {
