@@ -1,7 +1,6 @@
 # Site settings
 title: "gjuniioor"
 bye_message: "Thx!"
-baseurl: "/"
 url: "https://gjuniioor.github.io"
 disqus: gjuniioor
 
@@ -16,7 +15,7 @@ source_code:
 blog: 
     server: "wordpress.com"
     nick: "gjuniioor"
-fingerprint_key: "5195 4F0B 84A6 6155 4DDB  BE08 0570 9A50 4810 CE93"
+fingerprint_key: "5195 4F0B 84A6 6155 4DDB BE08 0570 9A50 4810 CE93"
 
 # Build settings
 markdown: kramdown
