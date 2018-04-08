@@ -1,10 +1,12 @@
 # Meu blog
 
-https://gjuniioor.github.io
+https://gildasio.gitlab.io
 
 ### Sobre
 
-Eu uso [Github Pages](https://pages.github.com) com [jekyll](https://github.com/jekyll/jekyll) para fazer esse site.
+> Por um tempo eu usei [Github Pages](https://pages.github.com). Porém, de uma hora para outra, sem quê nem pra quê, aconteceu que o Github não entendia mais a variável `baseurl`, e com isso meu blog passou a ficar com o visual quebrado. Com isso, migrei para o Gitlab.
+
+Hoje eu uso [Gitlab Pages](https://about.gitlab.com/features/pages/) com [jekyll](https://github.com/jekyll/jekyll) para fazer esse site.
 
 [Bootstrap](http://getbootstrap.com/) foi adicionado depois para tornâ-lo responsível. Thanks, [@magnunleno](https://github.com/magnunleno).
 
