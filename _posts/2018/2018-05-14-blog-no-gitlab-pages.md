@@ -23,7 +23,7 @@ Mas o que me fez mudar para cá mesmo foram esses motimos:
 
 - Free ;)
 - CI
-_ problema--
+- problema--
 
 Explico:
 
@@ -100,7 +100,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 \ No newline at end of file
 ~~~
 
-### feed,xml
+### feed.xml
 
 E por fim, depois que já estava com o blog rodando e funcionando, vi que algo estava com problemas: o Feed RSS.
 

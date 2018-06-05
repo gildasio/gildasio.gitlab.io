@@ -2,20 +2,17 @@
 title: "gjuniioor"
 bye_message: "Thx!"
 baseurl: "/"
-url: "https://gjuniioor.github.io"
+url: "https://gildasio.gitlab.io"
 disqus: gjuniioor
 
 # Header settings
-nick: "gjuniioor"
+nick: "gildasio"
 mail:
     domain: "protonmail"
     ext: "ch"
 source_code: 
-    server: "github.com"
-    nick: "gjuniioor"
-blog: 
-    server: "wordpress.com"
-    nick: "gjuniioor"
+    server: "gitlab.com"
+    nick: "gildasio"
 fingerprint_key: "5195 4F0B 84A6 6155 4DDB BE08 0570 9A50 4810 CE93"
 
 # Build settings

@@ -1,6 +1,6 @@
 <header class="row">
   <div class="col-lg-8 col-lg-offset-2">
-    <h1 class="">gjuniioor</h1>
+	  <h1 class="">{{ site.nick }}</h1>
     <p>
     <span class="reserved">char</span> nick[<span class="number">9</span>] = <span class="string">"{{ site.nick }}"</span>;
     </p>
@@ -10,9 +10,6 @@
     <p>
     printf(<span class="string">"<span class="reserved">%s\x40</span>{{ site.mail.domain }}<span class="reserved">\x2e\\\b</span>{{ site.mail.ext }}<span class="reserved">\n</span>"</span>,nick);
     </p>
-    <!-- <p>
-            printf(<a href="https://{{ site.blog.nick }}.{{ site.blog.server }}" target="_blank"><span class="string">"https://<span class="reserved">%s</span>.{{ site.blog.server }}<span class="reserved">\n</span>"</span></a>,nick);
-        </p> -->
     <p>
     puts(<a href="{{ site.baseurl }}misc/pubkey.gpg.txt" target="_blank"><span class="string">"{{ site.fingerprint_key }}"</span></a>);
     </p>
